@@ -1,0 +1,1355 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>PSS</name>
+    <Style id="icon-1453-labelson">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/1453-trans-parking.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Placemark>
+      <name>URBANA PSS T-1 (TOWER 1)</name>
+      <description>22.512457, 88.411600</description>
+      <styleUrl>#icon-1453-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          88.4116,22.512457,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>URBANA PSS T-2 (TOWER 1)</name>
+      <description>22.512370, 88.411671</description>
+      <styleUrl>#icon-1453-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          88.411671,22.51237,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>URBANA PSS T-3 (TOWER 2)</name>
+      <description>22.512338, 88.412435</description>
+      <styleUrl>#icon-1453-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          88.412435,22.512338,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>URBANA PSS T-4 (TOWER 2)</name>
+      <description>22.512318, 88.412486</description>
+      <styleUrl>#icon-1453-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          88.412486,22.512318,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>URBANA PSS T-5 (TOWER 3)</name>
+      <description>22.512146, 88.413104</description>
+      <styleUrl>#icon-1453-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          88.413104,22.512146,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>URBANA PSS T-6 (TOWER 3)</name>
+      <description>22.512229, 88.413142</description>
+      <styleUrl>#icon-1453-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          88.413142,22.512229,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>URBANA PSS T-7 (TOWER 4)</name>
+      <description>22.512021, 88.414008</description>
+      <styleUrl>#icon-1453-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          88.414008,22.512021,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>URBANA PSS T-8 (TOWER 4)</name>
+      <description>22.512125, 88.414209</description>
+      <styleUrl>#icon-1453-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          88.414209,22.512125,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>URBANA PSS T-9 (TOWER 4)</name>
+      <description>22.511984, 88.414163</description>
+      <styleUrl>#icon-1453-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          88.414163,22.511984,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>URBANA PSS T-10 (TOWER 5)</name>
+      <description>22.510577, 88.414005</description>
+      <styleUrl>#icon-1453-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          88.414005,22.510577,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>URBANA PSS T-11 (TOWER 5)</name>
+      <description>22.510458, 88.413911</description>
+      <styleUrl>#icon-1453-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          88.413911,22.510458,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>URBANA PSS T-12 (TOWER 5)</name>
+      <description>22.510631, 88.413782</description>
+      <styleUrl>#icon-1453-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          88.413782,22.510631,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>URBANA PSS T-13 (TOWER 6)</name>
+      <description>22.510661, 88.413294</description>
+      <styleUrl>#icon-1453-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          88.413294,22.510661,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>URBANA PSS T-14 (TOWER 6)</name>
+      <description>22.510567, 88.413106</description>
+      <styleUrl>#icon-1453-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          88.413106,22.510567,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>URBANA PSS T-15 (TOWER 6)</name>
+      <description>22.510612, 88.412999</description>
+      <styleUrl>#icon-1453-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          88.412999,22.510612,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>URBANA PSS T-16 (TOWER 7)</name>
+      <description>22.510800, 88.412473</description>
+      <styleUrl>#icon-1453-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          88.412473,22.5108,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>URBANA PSS T-17 (TOWER 7)</name>
+      <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AN6v0v4MK6gsllSE7vpI5EIiCnQofumtipyX73ApeB-VBrmACqxD-10iu-jFcij15pRGhKhtGGH_vT7ey_W3xw9u4hH89vq_LTUjf8Z7zpyLJrua93Vb30vUs9dSq3dN6IfR_VyQyh86YrbrsUUcOQ5B_q7xA1r7YKXoMZJMfIkulhTHqfG8lhSYyN7yhsAkI89ZJUpx3zsQ1ceEkhRwCBkEvF5RdMixk2KMuQtHpG_y4U-dTN6fD_BdU5EwGkUJaPKtDvx0huG3hKeevV3T54iTLAsMZdyY4mbio7TDKhwnHSEfeRplpklZH35KOU6IazxVllTiYlA1-c_gNAN2GZG34G3eTh77FqtvNlD_XuMWc5n8w42j3sQ83TIO0nYYC6SjYCTA3I1vG8JPJ-d8RwYm5JCIy164vbUQb1Fo2R97uTYZwW8hF8gz8xsFajfanr_VJb9caEgMkcQ8EMV0wB98KIoXlIp4s-oDNu8oNT3-ri6KeGrF_OEzyWO06kUajl-__RxoFHmbJw7KpqKkzZsBbX7rzQF2Ynptv6v3jZoXV8_6Rmvf5PiHOl1cJ-dlaSzPDOzmRJX4RQHHcrpuQ9OB-4yFFiHXb41kR7dZfPDN4aXV33kx8m4jucJ3RDDZitkY1GApmr2_tK7-1b9JzTRUXSjVmttMfJsyQd7oFygfdzVLzt_CR8BMiL_C0F4GyjxkBlUWb7D4TcmIP9SIwmGjQrNg_LEhnBkz-kQ" height="200" width="auto" /><br><br>22.510968, 88.412307<br><br><img src="https://lh3.googleusercontent.com/umsh/AN6v0v5rF-qmfjuBCvThfH74ZAgQCgmDe-bV7fxq3D85jXxgBlGb_RboEMaBf-A3msMtUIdiS1XsjNc8v2Zpx-tua9mHY-8GIl5UTJQVPtv37jOHI-kBzSu3f6GlKqPY2Lakh8vrvS2i09OVq7_xQACJf1GVhd2RsgshWSj_L60Gnv36YfT1ITXeCVzbQzEF-hGLQsORKQ_-zcoCY0cvwkQe6Et1QYwuLljJFrjf_j3bxUYag7ujd2pk8iizPnszQiTDEWH1LLo2Dl9qysTag6veFKxJCNGQKHYYSDm6kxszLy1a09WPpAdZVFxbvkZ-gCANgPCaS3Rttar5BVfRVIuybFjafmdiHTxUfdWF_BW64LXKz-pmO4PWYPbBpeocIyXtqwEHQjpQlWAVK099OLn4MNAm-g2ZXtuqnr4zzgDm7FsjVkdt4J3gqCSGP0ykM1jMD-TCnpQe_gYKoB8pv7LecT2zaQD2uGNE-zxQ-ImyCJn4eOUZbxqrosbbP6GqLvxdrv_tunhfBwLxhFrvPG6uBedgI_FbLoyGzcQZcCk-W_ECq2ZkccoKesUlOkkS_9n_91D5fW__9uuzmwdZb_ZA-2RD-ByWJF39nHqAfkQfwn1nhpXaVH-Gblf5dGjjzqk5TB07dHOG81dRHaGVDH6GkcF_x7rWvXwY5bAW9XrKYuoWTf7fvWlbLQymPT-VAIJ4_0wmvKnBh5zrT-dCYqSgWuVM7-_NZ1kX-Q" height="200" width="auto" />]]></description>
+      <styleUrl>#icon-1453-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>https://lh3.googleusercontent.com/umsh/AN6v0v4MK6gsllSE7vpI5EIiCnQofumtipyX73ApeB-VBrmACqxD-10iu-jFcij15pRGhKhtGGH_vT7ey_W3xw9u4hH89vq_LTUjf8Z7zpyLJrua93Vb30vUs9dSq3dN6IfR_VyQyh86YrbrsUUcOQ5B_q7xA1r7YKXoMZJMfIkulhTHqfG8lhSYyN7yhsAkI89ZJUpx3zsQ1ceEkhRwCBkEvF5RdMixk2KMuQtHpG_y4U-dTN6fD_BdU5EwGkUJaPKtDvx0huG3hKeevV3T54iTLAsMZdyY4mbio7TDKhwnHSEfeRplpklZH35KOU6IazxVllTiYlA1-c_gNAN2GZG34G3eTh77FqtvNlD_XuMWc5n8w42j3sQ83TIO0nYYC6SjYCTA3I1vG8JPJ-d8RwYm5JCIy164vbUQb1Fo2R97uTYZwW8hF8gz8xsFajfanr_VJb9caEgMkcQ8EMV0wB98KIoXlIp4s-oDNu8oNT3-ri6KeGrF_OEzyWO06kUajl-__RxoFHmbJw7KpqKkzZsBbX7rzQF2Ynptv6v3jZoXV8_6Rmvf5PiHOl1cJ-dlaSzPDOzmRJX4RQHHcrpuQ9OB-4yFFiHXb41kR7dZfPDN4aXV33kx8m4jucJ3RDDZitkY1GApmr2_tK7-1b9JzTRUXSjVmttMfJsyQd7oFygfdzVLzt_CR8BMiL_C0F4GyjxkBlUWb7D4TcmIP9SIwmGjQrNg_LEhnBkz-kQ https://lh3.googleusercontent.com/umsh/AN6v0v5rF-qmfjuBCvThfH74ZAgQCgmDe-bV7fxq3D85jXxgBlGb_RboEMaBf-A3msMtUIdiS1XsjNc8v2Zpx-tua9mHY-8GIl5UTJQVPtv37jOHI-kBzSu3f6GlKqPY2Lakh8vrvS2i09OVq7_xQACJf1GVhd2RsgshWSj_L60Gnv36YfT1ITXeCVzbQzEF-hGLQsORKQ_-zcoCY0cvwkQe6Et1QYwuLljJFrjf_j3bxUYag7ujd2pk8iizPnszQiTDEWH1LLo2Dl9qysTag6veFKxJCNGQKHYYSDm6kxszLy1a09WPpAdZVFxbvkZ-gCANgPCaS3Rttar5BVfRVIuybFjafmdiHTxUfdWF_BW64LXKz-pmO4PWYPbBpeocIyXtqwEHQjpQlWAVK099OLn4MNAm-g2ZXtuqnr4zzgDm7FsjVkdt4J3gqCSGP0ykM1jMD-TCnpQe_gYKoB8pv7LecT2zaQD2uGNE-zxQ-ImyCJn4eOUZbxqrosbbP6GqLvxdrv_tunhfBwLxhFrvPG6uBedgI_FbLoyGzcQZcCk-W_ECq2ZkccoKesUlOkkS_9n_91D5fW__9uuzmwdZb_ZA-2RD-ByWJF39nHqAfkQfwn1nhpXaVH-Gblf5dGjjzqk5TB07dHOG81dRHaGVDH6GkcF_x7rWvXwY5bAW9XrKYuoWTf7fvWlbLQymPT-VAIJ4_0wmvKnBh5zrT-dCYqSgWuVM7-_NZ1kX-Q</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          88.412307,22.510968,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>URBANA PSS T-18 (TOWER 7)</name>
+      <description>22.510844, 88.412227</description>
+      <styleUrl>#icon-1453-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          88.412227,22.510844,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Chaubhaga PSS (SND)
+(Inside Tirumala Building)</name>
+      <description>22.5405625, 88.3877344</description>
+      <styleUrl>#icon-1453-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          88.387734,22.540562,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Putiary Kabardanga PSS 1 (SIEMENS) Inside Eden Tolly Signature</name>
+      <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AN6v0v5dhQlbsu4BkMXp6yrML83Iaol0zusv0Tn4yEBJzIeaQBXFTSgstONruJSwWdMc9oXsvh8q-ERn28r16aq0HS9LHSD-amWSdKG4ldxdTeTSF_UPjGSLtXg8VR2dT7hfmuv3wXaDBDSELvr2Shuff_fARzUzLQ4IhTmEsMlWbY_-_DpAup2mHzkZWKjOBqTDYh-oo8W86oep_Wmhj3P2jveCdvUrGOMV98zDVvTPEuuKvpELx9Jadh2dzAE5boevi-csu6ngk1dpOr_UF20nLmpKnqcUm_AHRXoyHBrddYbLIl6dazP8e1KMWltTeTqHdJaU5rDm3G517I59_aZ8E0LjYjPLWtIdgioK1HasxXnvo9lvzJhlbISDLDstt_8X_l2iOD-VsGxYi5T9advyKB2REE-HwdCkFcxtRQRq_otsqwMKYN9znZPhqB8anPFq7YsHUh31-7WMOE61mDXbhoG-ekZyOotQG98mpWBu986yOb9iU_8MjJ__e_d24npASn6nLs9KfVtERaX7asv7FF9tk5Vx11YbxBVMqw5lqdQnJ4_BkaUCfYr5eqN-iQBVlwifKr2sEb1yh4qsCjOWApWMqF2YeTPtwxOQGp0v_-xeCaMyJux1DGPan7j0N8sh1rpmKcvynp8H" height="200" width="auto" /><br><br>22.4642625, 88.3344219]]></description>
+      <styleUrl>#icon-1453-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>https://lh3.googleusercontent.com/umsh/AN6v0v5dhQlbsu4BkMXp6yrML83Iaol0zusv0Tn4yEBJzIeaQBXFTSgstONruJSwWdMc9oXsvh8q-ERn28r16aq0HS9LHSD-amWSdKG4ldxdTeTSF_UPjGSLtXg8VR2dT7hfmuv3wXaDBDSELvr2Shuff_fARzUzLQ4IhTmEsMlWbY_-_DpAup2mHzkZWKjOBqTDYh-oo8W86oep_Wmhj3P2jveCdvUrGOMV98zDVvTPEuuKvpELx9Jadh2dzAE5boevi-csu6ngk1dpOr_UF20nLmpKnqcUm_AHRXoyHBrddYbLIl6dazP8e1KMWltTeTqHdJaU5rDm3G517I59_aZ8E0LjYjPLWtIdgioK1HasxXnvo9lvzJhlbISDLDstt_8X_l2iOD-VsGxYi5T9advyKB2REE-HwdCkFcxtRQRq_otsqwMKYN9znZPhqB8anPFq7YsHUh31-7WMOE61mDXbhoG-ekZyOotQG98mpWBu986yOb9iU_8MjJ__e_d24npASn6nLs9KfVtERaX7asv7FF9tk5Vx11YbxBVMqw5lqdQnJ4_BkaUCfYr5eqN-iQBVlwifKr2sEb1yh4qsCjOWApWMqF2YeTPtwxOQGp0v_-xeCaMyJux1DGPan7j0N8sh1rpmKcvynp8H</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          88.334422,22.464262,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Putiary Kabardanga PSS 2 (SIEMENS) Inside Eden Tolly Signature</name>
+      <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AN6v0v4CXBm-O_93xML-IWSBRAFZ-33zbGlY4GnAcb7xbPv0CwwguAD9fjUb7fuYdbLQUNZQ1O5Hd95RSXP4UiIGP53x-tsAoZrtOEZN_QH55isJ_S-ZqOfRVZ9pk0bteQN8cYYxFVZ2F1hVU6iQ06fohxxLwg9TfZiLB6ys2-qCcSuflUUX6svWWGzc9VLKZj_HBQWtYT7bPxZpFVQRq_gwwBDYFvZpZIB-qG_goMEai4i3WE3u_na4_0XiuxgtMj67z_KaDM95AfyU1BO2oM3BaWtqbQLHKiXRjDv4nh6qP1QozFoG2RWjLRuAtT_UCn6A8CQ0KHDglUikqLyORKR_my1Sx9UQtFC0C1anQdQqZkwcP0n555AqCqPywuemMlgQdkoEK1mYhuKL7cexLo19iQPWJtcu5gX0jLs6vJKwLIi-P85tiKGuoxV9rRNfUW7Y2ZRHvHXGz1-pL1EXYO42qdNB0ec1sewmC73_t6cco4s4A4oBlkdZPKLHM2hSa9yF3WyF8l9VN_SoxgrFCy8jsJ_iiggx4B1Q-_GjVDHPW-aiPejeFVt8WnJyBBcM5aA-lb5GZ2jfynwYgOsyEX9DuRBae8wyhWyQJRTCVlk4jlLYJLFRmy94Me8DwulKbkzYHIeAvajcxzKejw" height="200" width="auto" /><br><br>22.4642007, 88.3343899]]></description>
+      <styleUrl>#icon-1453-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>https://lh3.googleusercontent.com/umsh/AN6v0v4CXBm-O_93xML-IWSBRAFZ-33zbGlY4GnAcb7xbPv0CwwguAD9fjUb7fuYdbLQUNZQ1O5Hd95RSXP4UiIGP53x-tsAoZrtOEZN_QH55isJ_S-ZqOfRVZ9pk0bteQN8cYYxFVZ2F1hVU6iQ06fohxxLwg9TfZiLB6ys2-qCcSuflUUX6svWWGzc9VLKZj_HBQWtYT7bPxZpFVQRq_gwwBDYFvZpZIB-qG_goMEai4i3WE3u_na4_0XiuxgtMj67z_KaDM95AfyU1BO2oM3BaWtqbQLHKiXRjDv4nh6qP1QozFoG2RWjLRuAtT_UCn6A8CQ0KHDglUikqLyORKR_my1Sx9UQtFC0C1anQdQqZkwcP0n555AqCqPywuemMlgQdkoEK1mYhuKL7cexLo19iQPWJtcu5gX0jLs6vJKwLIi-P85tiKGuoxV9rRNfUW7Y2ZRHvHXGz1-pL1EXYO42qdNB0ec1sewmC73_t6cco4s4A4oBlkdZPKLHM2hSa9yF3WyF8l9VN_SoxgrFCy8jsJ_iiggx4B1Q-_GjVDHPW-aiPejeFVt8WnJyBBcM5aA-lb5GZ2jfynwYgOsyEX9DuRBae8wyhWyQJRTCVlk4jlLYJLFRmy94Me8DwulKbkzYHIeAvajcxzKejw</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          88.33439,22.464201,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Batanagar Riverside PH 1 PSS 4 (SND) (IN SAME ENCLOSURE of PSS 3)</name>
+      <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AN6v0v7DSSnUJD3SsehHEDWcTnOtJXLULDJzfSogOMrfjTfSonyKSk1csaeHpEV5Hz6zahliZbFRuK9GE6NFMtJ7WnPQ-ItgLxSLyagXgiP5xzYu7sMSorOA2Oj0BdSTCl3MlpaXp4xZiokwOdQSJkKMtLktOxo6cEb_82sIq1jtCkWzZ9xO4DFF8iLPOEQ6ARR2ruzHvQqk132KU5lI1Q-NAR6CwGgkHj4Pr5xqcHmaHTFBu1m0Q2dSrRLsgE6IfzzM5PrsuNxYfnZYaA863KCRdGX3Cp7EQJs3nWpHfxiJGr_ooE59C2Ki2uL2AKSBWjPtHhizMEhoor77J8RE95ePmxmXNIsva3VnZSaYNZAr6d-4UTGuzZzl_b4yWs3rNc9nDuTncuT1xgKZ07oXy10Nr0qIF5OgQ7jOIP8Ut9FhGOk6K5GnfkfNuNCmT05nTUGVoMMuvOPI97m3a31UvCtW55H6l3_kOWNwZNmJk-OJdnV4Bf1MWVn120HyubCzzT81-IdiInzhMThdBfQnFaIPXZpEtK4urrGHMnXowxtQSP5bnTATAgPj5pua4-CaQmP3wSzKmWE-b76ZVEDcPQMo6daeTKf6LoimuHroaiNsfUnPeu7qjNl4Pxy5aJ-ermFV0Yo7X0PBPHHCmoWh" height="200" width="auto" /><br><br>22.51338, 88.21395]]></description>
+      <styleUrl>#icon-1453-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>https://lh3.googleusercontent.com/umsh/AN6v0v7DSSnUJD3SsehHEDWcTnOtJXLULDJzfSogOMrfjTfSonyKSk1csaeHpEV5Hz6zahliZbFRuK9GE6NFMtJ7WnPQ-ItgLxSLyagXgiP5xzYu7sMSorOA2Oj0BdSTCl3MlpaXp4xZiokwOdQSJkKMtLktOxo6cEb_82sIq1jtCkWzZ9xO4DFF8iLPOEQ6ARR2ruzHvQqk132KU5lI1Q-NAR6CwGgkHj4Pr5xqcHmaHTFBu1m0Q2dSrRLsgE6IfzzM5PrsuNxYfnZYaA863KCRdGX3Cp7EQJs3nWpHfxiJGr_ooE59C2Ki2uL2AKSBWjPtHhizMEhoor77J8RE95ePmxmXNIsva3VnZSaYNZAr6d-4UTGuzZzl_b4yWs3rNc9nDuTncuT1xgKZ07oXy10Nr0qIF5OgQ7jOIP8Ut9FhGOk6K5GnfkfNuNCmT05nTUGVoMMuvOPI97m3a31UvCtW55H6l3_kOWNwZNmJk-OJdnV4Bf1MWVn120HyubCzzT81-IdiInzhMThdBfQnFaIPXZpEtK4urrGHMnXowxtQSP5bnTATAgPj5pua4-CaQmP3wSzKmWE-b76ZVEDcPQMo6daeTKf6LoimuHroaiNsfUnPeu7qjNl4Pxy5aJ-ermFV0Yo7X0PBPHHCmoWh</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          88.21395,22.51338,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Batanagar Riverside PH 1 PSS 3 (SND) (Areva Motorised)   </name>
+      <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AN6v0v7myYcu_G4zrXdKdVo0-EPrugLQnEphOErh3D1zQ056uK6aLJoPRXOMSlDltTQ8iR8BVu5YUWfIyDapR1fMUvhm65Nz-YkKIMPtTs7b-4w4H0uE_LVSxAZHYQMF8htW_-eq0E-kpIuY_m8NFTOCkiScaNBp660qEBulVMLOXxFPKWN8aUY4eSx03QjkSLj6PvrjxFx56CSfB8FTbrILLtYhGE79ZBNpCVXDNeWTEbzTgS5VFBln6jjkTvTiQGjV1KJG99ILNC5dTWndU3EyRw6tmvCIX8aZhwIl33LcoXR90LV9QXYzta-SoLFdK66ge6WcpbNysqe2bR-fIDqLFiFRXkxuv_YG37nldp1UZ0NO7LyqTBYsX2a98Pi8tuau8kUY1p8oil3LyuyMx0upEGmgO41mOk_u9NknsX3r1DP8XO0khlc0H-M2e4sanr1tRlDMdu7QfqexwfEyC0mxbT9Gk971UzYDkoDRbnTnp1w49VOmeO8QznkK0crZ2BMHugCEQhNc9JY7goycT68Yql9lJxTYTda8226PT4pqaZtEkD6TDnKKgqc1kLWhiuOirvutgIgsRox-1JVn-i5bEn39fENit-_frvqcDvRhlp8NjSMoFlaUB8DEzyveJNMpNIGqWhRzT4hWpIrx" height="200" width="auto" /><br><br>22.5133375, 88.2139531]]></description>
+      <styleUrl>#icon-1453-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>https://lh3.googleusercontent.com/umsh/AN6v0v7myYcu_G4zrXdKdVo0-EPrugLQnEphOErh3D1zQ056uK6aLJoPRXOMSlDltTQ8iR8BVu5YUWfIyDapR1fMUvhm65Nz-YkKIMPtTs7b-4w4H0uE_LVSxAZHYQMF8htW_-eq0E-kpIuY_m8NFTOCkiScaNBp660qEBulVMLOXxFPKWN8aUY4eSx03QjkSLj6PvrjxFx56CSfB8FTbrILLtYhGE79ZBNpCVXDNeWTEbzTgS5VFBln6jjkTvTiQGjV1KJG99ILNC5dTWndU3EyRw6tmvCIX8aZhwIl33LcoXR90LV9QXYzta-SoLFdK66ge6WcpbNysqe2bR-fIDqLFiFRXkxuv_YG37nldp1UZ0NO7LyqTBYsX2a98Pi8tuau8kUY1p8oil3LyuyMx0upEGmgO41mOk_u9NknsX3r1DP8XO0khlc0H-M2e4sanr1tRlDMdu7QfqexwfEyC0mxbT9Gk971UzYDkoDRbnTnp1w49VOmeO8QznkK0crZ2BMHugCEQhNc9JY7goycT68Yql9lJxTYTda8226PT4pqaZtEkD6TDnKKgqc1kLWhiuOirvutgIgsRox-1JVn-i5bEn39fENit-_frvqcDvRhlp8NjSMoFlaUB8DEzyveJNMpNIGqWhRzT4hWpIrx</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          88.213953,22.513338,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Urbana Bungalow PSS No. 4</name>
+      <description>22.5099375, 88.4143125</description>
+      <styleUrl>#icon-1453-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          88.414312,22.509938,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Urbana Bungalow PSS No. 3</name>
+      <description>22.5087875, 88.4115781</description>
+      <styleUrl>#icon-1453-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          88.411578,22.508788,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Urbana Bungalow PSS No. 2</name>
+      <description>22.5087625, 88.4115781</description>
+      <styleUrl>#icon-1453-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          88.411578,22.508762,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Urbana Bungalow PSS No. 1</name>
+      <description>22.5102625, 88.4103281</description>
+      <styleUrl>#icon-1453-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          88.410328,22.510262,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Avidipta HSG PSS No 1 (UM)</name>
+      <description>22.4926375, 88.3982344</description>
+      <styleUrl>#icon-1453-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          88.398234,22.492638,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Batanagar Hiland Green PSS no. 12 (SND)</name>
+      <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AN6v0v7EaAwuuxzImMZwPTZ8-eEA3OGktMobHCZ_cdcKoXsiQoV43-iPfLumDE-wDMozrjAbUCFnisX3mho-xyKu4-nk5e-UK-YdvU3Rf83GTZwdUcD6Yx-gqkjpxGVDXK_xgg4emsH5UizXepnQKrHRBFf9uGjzi6d3DL4cL_rBz40yB-u6dA9qzI6mBfk5zgJz0brOf9B20If9HlVfGYuS8OiBQpxVHFKR9Q9Rf58DS1adHRa4GIgl0XsbQcxw-mU0CaIy2e0SniX-IsrDgY2AL_2nGXGxHp1dSGFDzGcJ3b6XIEfij7CviAb4w-VEJVOrcWom6Z6kTuFv3i8E4v43UXZ3UPNsZPyA--IQbom8vqGteIfwCTY9JSw2a9fBoMY7EPnkehzu2yAlxfFeC5I6djsBPJheK1SW9YhFQ98Bfun7MCGHheZi3P1OfsgCZgG14QtnCre1p0OzCXEQ9T59dziXFDokMn-pgSitPQ9mqh-9QlVCXs05JM07h33P4Qar7X37QXLVkENHCAlc5ItUr0blNPrML_aK15aRkoMO4StYVFE3Qzl_2mS632Y_DnZ5HIPoRKCB1z5l-zUtpGXcWEw0Ey4TDiGKsKrNPy6BCN6r1FpIed-5ASjwglahmyMbCFClk0sbOS-BO-zlLAeP-VOvzBAFZVCZeuZhROkB7VVJKEV4M_RacTBmpeWGNRjXvK3-QdN8rohjicIiUFl92qkVTMdavQHlJEQ" height="200" width="auto" /><br><br>22.5125375, 88.2169844<br><br><img src="https://lh3.googleusercontent.com/umsh/AN6v0v5-qUhVw9d_IGxzR5ipne6avI2siZlEETVzo5YWBoClq2IP0d6j5EvPcR84KPTzjzLA1RyVFXe3T-1LKl-Giqf1I1asMDplAQIldl4D0O9vU7DB679ALLvjCQ6hg_66DS-BrI9fAJPQ-vp3wMmr2GeOezI7xRYIF7rU9Z6WSEEEWexRRGcZUsqd4iGJoOSNvCG7jzi5mFF35PulIAVWiYukPiwB6dHBCx7LDrwSs0U2g_p8Y0y4zRjDX2_vdm8ztILVHIJhFQp4CMj1q846MmuOobL4VOy3g4d4dmd_e_5vF5haL9kzYaj0KyFK6QZkUi6_KvJ4Wy5SZVa4TjtSdquSG7qJIWLJN_rkfCC9p6WufDWJSK9UGPbFrP9QWzmgh1y0XrPB03yEiT019P8YUk-55AEG42FZHd5t50HTimyGx6fxZt7wZyeZsgHnwJf46CwFiaWbPC4DcTlNcv334fo-tYLNc2QdV7q8C20bA2rwuNA3qdXs1yuYTCBy3nbioB82xbmC2rmI7EajN2pyXgn1lua1G-8GrsRdVJaF1JrcM_k8FgFHRvx_beIYyxwrh6r5s-tZFW8FBUlU5xVWbls1CwTrmz_42_GfvZa4jDq8flYJ5ki8RzGNfAQz4v8UUIgnAKEPPNyNiHsODPA1UuLXP88X-jzdfWoin4Q4zJQI9lvIOfFnj30-BfGd0mvHaIAgQeHMcgvtOnfl_Y_MR2VFhvng5XolPQ" height="200" width="auto" /><br><br><img src="https://lh3.googleusercontent.com/umsh/AN6v0v56aztvvuTV5Ahfve-oTfm1Fn8m69iZqNQmclGlO3asQwxk8gIbtFGBSN7kTmP3llHSeqNJaAAeyvNJp_IVt-w17zTOCV1TN9sSxccunF04FVBS_vzf61UrsTvNa96eM07TYIWmAWj4zVlfZCi5T2G4pUei34eh5FsYCMTlg2znl1Jw_8ghfL07fYgEnpcB9jTTbFHuDZu-rIoNjuSXgMNZFyJmwf__jBY91VfcyWiVS99l9sFpre9c0tfDjKUMorGcThicjhr6LVQmtejUu-GJp57WIH9WzxaPFAyRyqv54G1lwDpW8sj8BpO_FGKQDeXU0EI0x0a-MtttS96NwEcI7amgXTfo3egznvBntK3yQPqVL_lAInq05NLnPntOGOVXk_JQ2GP4XZs7quswLsn4rJjLEROn1jjtI8DgGfyaokA-sNrSI8dyKywhHt_DSDdQuaUgb3pgQ5jfQzg_MuOEopJJjjqAtQpWfaNcdl5PewUiMUzp5k_T8BQ6UaScV7zhVKJITLqXjTUXzoVhTdniwExcV3qF1X0IyfXNC_ZZt7Yj4-LHZEYZj4Vkg5VLmFyrshTJ1puYzbKC6hVMygDywbHllCyJPgd32Kn0YjOZxlZH9dK5baxOAcqMppclx9Lvtn3Q3n3MeDuW4rd0K6y81PdV5pX1zImqK7e509GWWMHgpDucmmr8xyaGH9hFjOWJhWDTQnGjcZWAeX82A7p6kpUQUdTa1hw" height="200" width="auto" />]]></description>
+      <styleUrl>#icon-1453-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>https://lh3.googleusercontent.com/umsh/AN6v0v7EaAwuuxzImMZwPTZ8-eEA3OGktMobHCZ_cdcKoXsiQoV43-iPfLumDE-wDMozrjAbUCFnisX3mho-xyKu4-nk5e-UK-YdvU3Rf83GTZwdUcD6Yx-gqkjpxGVDXK_xgg4emsH5UizXepnQKrHRBFf9uGjzi6d3DL4cL_rBz40yB-u6dA9qzI6mBfk5zgJz0brOf9B20If9HlVfGYuS8OiBQpxVHFKR9Q9Rf58DS1adHRa4GIgl0XsbQcxw-mU0CaIy2e0SniX-IsrDgY2AL_2nGXGxHp1dSGFDzGcJ3b6XIEfij7CviAb4w-VEJVOrcWom6Z6kTuFv3i8E4v43UXZ3UPNsZPyA--IQbom8vqGteIfwCTY9JSw2a9fBoMY7EPnkehzu2yAlxfFeC5I6djsBPJheK1SW9YhFQ98Bfun7MCGHheZi3P1OfsgCZgG14QtnCre1p0OzCXEQ9T59dziXFDokMn-pgSitPQ9mqh-9QlVCXs05JM07h33P4Qar7X37QXLVkENHCAlc5ItUr0blNPrML_aK15aRkoMO4StYVFE3Qzl_2mS632Y_DnZ5HIPoRKCB1z5l-zUtpGXcWEw0Ey4TDiGKsKrNPy6BCN6r1FpIed-5ASjwglahmyMbCFClk0sbOS-BO-zlLAeP-VOvzBAFZVCZeuZhROkB7VVJKEV4M_RacTBmpeWGNRjXvK3-QdN8rohjicIiUFl92qkVTMdavQHlJEQ https://lh3.googleusercontent.com/umsh/AN6v0v5-qUhVw9d_IGxzR5ipne6avI2siZlEETVzo5YWBoClq2IP0d6j5EvPcR84KPTzjzLA1RyVFXe3T-1LKl-Giqf1I1asMDplAQIldl4D0O9vU7DB679ALLvjCQ6hg_66DS-BrI9fAJPQ-vp3wMmr2GeOezI7xRYIF7rU9Z6WSEEEWexRRGcZUsqd4iGJoOSNvCG7jzi5mFF35PulIAVWiYukPiwB6dHBCx7LDrwSs0U2g_p8Y0y4zRjDX2_vdm8ztILVHIJhFQp4CMj1q846MmuOobL4VOy3g4d4dmd_e_5vF5haL9kzYaj0KyFK6QZkUi6_KvJ4Wy5SZVa4TjtSdquSG7qJIWLJN_rkfCC9p6WufDWJSK9UGPbFrP9QWzmgh1y0XrPB03yEiT019P8YUk-55AEG42FZHd5t50HTimyGx6fxZt7wZyeZsgHnwJf46CwFiaWbPC4DcTlNcv334fo-tYLNc2QdV7q8C20bA2rwuNA3qdXs1yuYTCBy3nbioB82xbmC2rmI7EajN2pyXgn1lua1G-8GrsRdVJaF1JrcM_k8FgFHRvx_beIYyxwrh6r5s-tZFW8FBUlU5xVWbls1CwTrmz_42_GfvZa4jDq8flYJ5ki8RzGNfAQz4v8UUIgnAKEPPNyNiHsODPA1UuLXP88X-jzdfWoin4Q4zJQI9lvIOfFnj30-BfGd0mvHaIAgQeHMcgvtOnfl_Y_MR2VFhvng5XolPQ https://lh3.googleusercontent.com/umsh/AN6v0v56aztvvuTV5Ahfve-oTfm1Fn8m69iZqNQmclGlO3asQwxk8gIbtFGBSN7kTmP3llHSeqNJaAAeyvNJp_IVt-w17zTOCV1TN9sSxccunF04FVBS_vzf61UrsTvNa96eM07TYIWmAWj4zVlfZCi5T2G4pUei34eh5FsYCMTlg2znl1Jw_8ghfL07fYgEnpcB9jTTbFHuDZu-rIoNjuSXgMNZFyJmwf__jBY91VfcyWiVS99l9sFpre9c0tfDjKUMorGcThicjhr6LVQmtejUu-GJp57WIH9WzxaPFAyRyqv54G1lwDpW8sj8BpO_FGKQDeXU0EI0x0a-MtttS96NwEcI7amgXTfo3egznvBntK3yQPqVL_lAInq05NLnPntOGOVXk_JQ2GP4XZs7quswLsn4rJjLEROn1jjtI8DgGfyaokA-sNrSI8dyKywhHt_DSDdQuaUgb3pgQ5jfQzg_MuOEopJJjjqAtQpWfaNcdl5PewUiMUzp5k_T8BQ6UaScV7zhVKJITLqXjTUXzoVhTdniwExcV3qF1X0IyfXNC_ZZt7Yj4-LHZEYZj4Vkg5VLmFyrshTJ1puYzbKC6hVMygDywbHllCyJPgd32Kn0YjOZxlZH9dK5baxOAcqMppclx9Lvtn3Q3n3MeDuW4rd0K6y81PdV5pX1zImqK7e509GWWMHgpDucmmr8xyaGH9hFjOWJhWDTQnGjcZWAeX82A7p6kpUQUdTa1hw</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          88.216984,22.512538,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Batanagar Highland Green PSS No. 11 (SND)</name>
+      <description>22.5125875, 88.2161719</description>
+      <styleUrl>#icon-1453-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          88.216172,22.512588,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>New Alipore Stn. Rd. PSS
+
+(Inside Jeevan Niketan Apartment)</name>
+      <description>22.5101625, 88.3329531</description>
+      <styleUrl>#icon-1453-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          88.332953,22.510162,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bengal Greenfield City PSS No 10 (Siemens)
+(Standalone Areva RMU)</name>
+      <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AN6v0v6oGih2jOiIIhzf01iTnXghyOJ1PcW9fcVyA5FmeIdjAWis08TNT5cfFSQhXiHC3oTWHUn6K76A2XVSVsJg-6opUObMvvUvoZOTGISHfDfigxKxF601597VytW0gfxk5nW_eXdcT0RAPcRHbZHNPKhTtK3ORDSz5UtnQm-62Tbi1nmaWf6csdrJor7VxkCUCvoISdQMMQJlXvJcSt559CcOQ2TGPkGxCvtC8CssEyrc-lpaRk4fx8Q4Tp5j1d4QX7G-6bu953bSSx6WGi2qHGSycM0HBq2ODFtSFeGeiqAYRho9eua59cLmoP2RgsKemD1Cg3VWA2VCx5nRcfd6LpYnsnwHXs5ipHHkKqlNcEzwoWajw6HDcvz2fOYiRmbRGPy9H3919LuZN3yFJh9TLdq4IO6XJjOciEdkn_0kUdr1fTkFX2wBRk6yWoQy0yR1M4xbQV5mhUpDo5YhXsmIKcacYJyjlTwEShY3Pr4fV8_t51XyYHXVl13eNZZvBYxrLY53ZEENYqkZRhPVwIzh4rieoXJbinhWTaFRy_gejC880ZAYjodKqcbYa8qG4C0os-RwEl0IjNuzzCCnJXdF4u7TYauto0lcpuuCB7wZeNIajdNOdLYw9C-VxvI7cuGrB1Pr3m-g0oJIK_9tcH-GO73VvEAiKO3UFtWeCeUiIRTo69iz6cG0t1osMQtjxZkqGNmj7XWS5HBxgAqtI4cBuuboJ1YTyq_4rA" height="200" width="auto" /><br><br>22.4977625, 88.2723594]]></description>
+      <styleUrl>#icon-1453-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>https://lh3.googleusercontent.com/umsh/AN6v0v6oGih2jOiIIhzf01iTnXghyOJ1PcW9fcVyA5FmeIdjAWis08TNT5cfFSQhXiHC3oTWHUn6K76A2XVSVsJg-6opUObMvvUvoZOTGISHfDfigxKxF601597VytW0gfxk5nW_eXdcT0RAPcRHbZHNPKhTtK3ORDSz5UtnQm-62Tbi1nmaWf6csdrJor7VxkCUCvoISdQMMQJlXvJcSt559CcOQ2TGPkGxCvtC8CssEyrc-lpaRk4fx8Q4Tp5j1d4QX7G-6bu953bSSx6WGi2qHGSycM0HBq2ODFtSFeGeiqAYRho9eua59cLmoP2RgsKemD1Cg3VWA2VCx5nRcfd6LpYnsnwHXs5ipHHkKqlNcEzwoWajw6HDcvz2fOYiRmbRGPy9H3919LuZN3yFJh9TLdq4IO6XJjOciEdkn_0kUdr1fTkFX2wBRk6yWoQy0yR1M4xbQV5mhUpDo5YhXsmIKcacYJyjlTwEShY3Pr4fV8_t51XyYHXVl13eNZZvBYxrLY53ZEENYqkZRhPVwIzh4rieoXJbinhWTaFRy_gejC880ZAYjodKqcbYa8qG4C0os-RwEl0IjNuzzCCnJXdF4u7TYauto0lcpuuCB7wZeNIajdNOdLYw9C-VxvI7cuGrB1Pr3m-g0oJIK_9tcH-GO73VvEAiKO3UFtWeCeUiIRTo69iz6cG0t1osMQtjxZkqGNmj7XWS5HBxgAqtI4cBuuboJ1YTyq_4rA</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          88.272359,22.497762,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bengal Greenfield City PSS No. 2 (Siemens)</name>
+      <description>22.4946125, 88.2755469</description>
+      <styleUrl>#icon-1453-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          88.275547,22.494612,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bengal Greenfield City PSS No. 3 (Siemens)</name>
+      <description>22.4955875, 88.2754219</description>
+      <styleUrl>#icon-1453-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          88.275422,22.495588,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bengal Greenfield City PSS No. 4 (Siemens)</name>
+      <description>22.4955125, 88.2740156</description>
+      <styleUrl>#icon-1453-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          88.274016,22.495512,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bengal Greenfield City PSS No. 9 (Siemens)</name>
+      <description>22.4985125, 88.2744844</description>
+      <styleUrl>#icon-1453-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          88.274484,22.498512,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bengal Greenfield City PSS No. 11 (SND) (Areva 32 turns Handle)</name>
+      <description>22.4940625, 88.2738594</description>
+      <styleUrl>#icon-1453-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          88.273859,22.494062,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bengal Greenfield City PSS No. 5 (Siemens)</name>
+      <description>22.4955125, 88.2729219</description>
+      <styleUrl>#icon-1453-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          88.272922,22.495512,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bengal Greenfield City PSS No. 6 (SND)</name>
+      <description>22.4966375, 88.2726406</description>
+      <styleUrl>#icon-1453-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          88.272641,22.496638,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bengal Greenfield City PSS No. 7 (Siemens)</name>
+      <description>22.4969125, 88.2739531</description>
+      <styleUrl>#icon-1453-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          88.273953,22.496912,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bengal Greenfield City PSS No. 8 (ABB)</name>
+      <description>22.4975625, 88.2743281</description>
+      <styleUrl>#icon-1453-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          88.274328,22.497562,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Behala Industrial Est PSS</name>
+      <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AN6v0v5h1OJ0yXqH3bwjt_nH0PI85gVUn6MWPH3SkZmclglmJjjA9wuk7IX3cEg9M9x4bwVoaCNW0CeDMO9iqzpx60ETQSc97ODJv0wWkVTTlb7IqyjETEpELjwDU_ujAJFFsn4-PhlUYJiQJjrskoSxmq7pyZX5jaRuplG9_yhBkogw0puknJyffGeS8FmjO2fGLTDVN5t9GvaRO2DACVic5haH96uSZNemm1OeUbDx8uWJiPBGfozKgbdvqzvKJSRu_22SSXKnatofUCvxLX4cd9UrkxUvU81NuF19y43v0mOnrkZSc41tKlwYlxV-esX_b0ZqJK-gZJKiiy6fkBUqoKzGcyK6aWGHljXNpGC1y5LY8G2CegUPoYPHNlYVSvVfmN14r6w-sfm2KnRCUId8kpIf3zGEUHVChvSleA3B7-jXVSVrMJvcaNslyoyDj6R-7kT9CyYc971Ksv6dpKq2tcZo9Io-K6A6RaaaT0rdhtPwWB8UjKoCsNFB-Kjk4x1NgmefJsCwE0V7P2BnD1yUmahFC_3TbOXjK78xVvZ-JjbobHXtc4NTYiX6uR3XI2JCrI4Tl2D9uOWGIWAoFWSUPwlWpqHVim107FADUN0OBOHaneJS8oSqnowHcg3vADQq0IfhEwqTo9Df6i0uRWPlvSbCPyY3gRC3_IPpWZjpZbf8YgseNVj0T9NdynTBJm_uSV9xiobuERye1DM0g3DRAZ8pZsoZliltdSA" height="200" width="auto" /><br><br>22.48828, 88.31247<br><br><img src="https://lh3.googleusercontent.com/umsh/AN6v0v5WvlRV3Hbi734o46gX-7s9D9iaBBxfa3ZSrhbuv2eu1MzRFjIxWkWzDLzAHaRUIBwmPrNoAIWbQ3eg0doDnEiuSi2YeMpm4tIeRCOM8gdAfox6wD_g7HLcYG6bJ6QihPC2pMAgLlaiDMBgCTWF_Ft-_8zjfdmnJkvsEZgUn1FBfgpj3TcJxQ4RjYBN63E6-bDGAegRq8sODKUGHL8am5dKvK9rkeK5VUsZnhGdQl6wzfCjjKHwQYNKO9qNV_FgpWIMxz2UJMahO98ZSczh2nv5zWgOFp59gjHp4b9IIgK53dbnat4IgeRZe21KPIJSUF-q6TDvo8eJtr7Gb6xNMWQ8dTXMBm3tnQWWx01TdgNb29wSAA5YDd7DqwbeC801ui-NjI-cesH2OxKRMymf8gfcIvZn7eefFaFfdNKXazCtoI5Fuwj6xifIrTxwZR8PX_2u_Ci6jqN2XXKwlo5h2HiyJdUOqddd_cb03DlxmUc_WWl8htFQqX-7V8dqGpBWOwgEVvz6d0lbUP0TbXw2oI8vCbzNoRrni8ML6GMzGYE-iXlhfTVIjjkQEos8KpwsgUlAou2S5qD3CZhk2Ixpm8aotq_cFgSCRONSDuOESjayza9tn11JUzxznoijYCk1bNHcN-3WaMFUZxK02ZLIt_nvtgadzf1IZ6oQr9h-eZBjWNk4Htvm3QDcKgKjWxkk9DWPyU1FS34Zn9kU9e3VAewk8d6eLvgiclM" height="200" width="auto" /><br><br><img src="https://lh3.googleusercontent.com/umsh/AN6v0v4ZkK9gAG_rmGCX-wiVHKe9k7fGTn53oZikwTSBgcLPxYiO3R_ciVs9ukqsQhvS2htJ2ioPy-iQEDe40Qb_K0SI13uYcQlE658Jpe6AGvhU9oRbfb2o7pcm7m7uyxkWpbnCJ_K3Y_3yfrPJNs6NnscDWxsrXGld1gOIvC8zW_0q_DPy8oAT1BKYTShkNwTk3K4tyxm57XO0blKHU3_puF66WcOXSbJ3piz0-NBDuPIrYofGJzqtQ4DDTeciMjHzoPTm5UmRzBPTO8UOLKExDtQRRQT9FxNGUZoaJfubUaOokhGc0uxNVh1Nw5b80S0F84WPJNXqv98xeB69gJA6loLmvTkIQulGbdvqOHVlUXmLkciHJ40DHV1hhRvyy1Y0NMG6ymOiDcmLUuoIz87C2iikG7OI1IxE7qKv-_y8sdiO7cvP0XGclqcm6fYsGjyh5bPN8NBNQ8Cc2ll_MHCPmz_pGmJJ46GOJnHoq0fs7i6-XlCQSXq81qfcv5EoF9zX-7tw_aefVzPBXimVOk7fn66wLA12fsHzjL5xiUBt62EjChYBDFq-vjfLzn6WyqYmlhJ7NlLYRodrQ-h3viSrB3JLw-JkQeR6P6l8rDUsZNqTBeIhVD_V4qqmsJnvldUG560Z9AGk8fjS9zZ3LIOOM6tAe1vFmloPzVV64IWfVA-3EggkEWks9Iae0f3mTrPh_FKurMwegu4Pf7Nyz0WqjcnvAlRCdkuGzsA" height="200" width="auto" />]]></description>
+      <styleUrl>#icon-1453-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>https://lh3.googleusercontent.com/umsh/AN6v0v5h1OJ0yXqH3bwjt_nH0PI85gVUn6MWPH3SkZmclglmJjjA9wuk7IX3cEg9M9x4bwVoaCNW0CeDMO9iqzpx60ETQSc97ODJv0wWkVTTlb7IqyjETEpELjwDU_ujAJFFsn4-PhlUYJiQJjrskoSxmq7pyZX5jaRuplG9_yhBkogw0puknJyffGeS8FmjO2fGLTDVN5t9GvaRO2DACVic5haH96uSZNemm1OeUbDx8uWJiPBGfozKgbdvqzvKJSRu_22SSXKnatofUCvxLX4cd9UrkxUvU81NuF19y43v0mOnrkZSc41tKlwYlxV-esX_b0ZqJK-gZJKiiy6fkBUqoKzGcyK6aWGHljXNpGC1y5LY8G2CegUPoYPHNlYVSvVfmN14r6w-sfm2KnRCUId8kpIf3zGEUHVChvSleA3B7-jXVSVrMJvcaNslyoyDj6R-7kT9CyYc971Ksv6dpKq2tcZo9Io-K6A6RaaaT0rdhtPwWB8UjKoCsNFB-Kjk4x1NgmefJsCwE0V7P2BnD1yUmahFC_3TbOXjK78xVvZ-JjbobHXtc4NTYiX6uR3XI2JCrI4Tl2D9uOWGIWAoFWSUPwlWpqHVim107FADUN0OBOHaneJS8oSqnowHcg3vADQq0IfhEwqTo9Df6i0uRWPlvSbCPyY3gRC3_IPpWZjpZbf8YgseNVj0T9NdynTBJm_uSV9xiobuERye1DM0g3DRAZ8pZsoZliltdSA https://lh3.googleusercontent.com/umsh/AN6v0v5WvlRV3Hbi734o46gX-7s9D9iaBBxfa3ZSrhbuv2eu1MzRFjIxWkWzDLzAHaRUIBwmPrNoAIWbQ3eg0doDnEiuSi2YeMpm4tIeRCOM8gdAfox6wD_g7HLcYG6bJ6QihPC2pMAgLlaiDMBgCTWF_Ft-_8zjfdmnJkvsEZgUn1FBfgpj3TcJxQ4RjYBN63E6-bDGAegRq8sODKUGHL8am5dKvK9rkeK5VUsZnhGdQl6wzfCjjKHwQYNKO9qNV_FgpWIMxz2UJMahO98ZSczh2nv5zWgOFp59gjHp4b9IIgK53dbnat4IgeRZe21KPIJSUF-q6TDvo8eJtr7Gb6xNMWQ8dTXMBm3tnQWWx01TdgNb29wSAA5YDd7DqwbeC801ui-NjI-cesH2OxKRMymf8gfcIvZn7eefFaFfdNKXazCtoI5Fuwj6xifIrTxwZR8PX_2u_Ci6jqN2XXKwlo5h2HiyJdUOqddd_cb03DlxmUc_WWl8htFQqX-7V8dqGpBWOwgEVvz6d0lbUP0TbXw2oI8vCbzNoRrni8ML6GMzGYE-iXlhfTVIjjkQEos8KpwsgUlAou2S5qD3CZhk2Ixpm8aotq_cFgSCRONSDuOESjayza9tn11JUzxznoijYCk1bNHcN-3WaMFUZxK02ZLIt_nvtgadzf1IZ6oQr9h-eZBjWNk4Htvm3QDcKgKjWxkk9DWPyU1FS34Zn9kU9e3VAewk8d6eLvgiclM https://lh3.googleusercontent.com/umsh/AN6v0v4ZkK9gAG_rmGCX-wiVHKe9k7fGTn53oZikwTSBgcLPxYiO3R_ciVs9ukqsQhvS2htJ2ioPy-iQEDe40Qb_K0SI13uYcQlE658Jpe6AGvhU9oRbfb2o7pcm7m7uyxkWpbnCJ_K3Y_3yfrPJNs6NnscDWxsrXGld1gOIvC8zW_0q_DPy8oAT1BKYTShkNwTk3K4tyxm57XO0blKHU3_puF66WcOXSbJ3piz0-NBDuPIrYofGJzqtQ4DDTeciMjHzoPTm5UmRzBPTO8UOLKExDtQRRQT9FxNGUZoaJfubUaOokhGc0uxNVh1Nw5b80S0F84WPJNXqv98xeB69gJA6loLmvTkIQulGbdvqOHVlUXmLkciHJ40DHV1hhRvyy1Y0NMG6ymOiDcmLUuoIz87C2iikG7OI1IxE7qKv-_y8sdiO7cvP0XGclqcm6fYsGjyh5bPN8NBNQ8Cc2ll_MHCPmz_pGmJJ46GOJnHoq0fs7i6-XlCQSXq81qfcv5EoF9zX-7tw_aefVzPBXimVOk7fn66wLA12fsHzjL5xiUBt62EjChYBDFq-vjfLzn6WyqYmlhJ7NlLYRodrQ-h3viSrB3JLw-JkQeR6P6l8rDUsZNqTBeIhVD_V4qqmsJnvldUG560Z9AGk8fjS9zZ3LIOOM6tAe1vFmloPzVV64IWfVA-3EggkEWks9Iae0f3mTrPh_FKurMwegu4Pf7Nyz0WqjcnvAlRCdkuGzsA</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          88.31247,22.48828,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Batanagar Highland Green PSS No. 10 (SND)</name>
+      <description>22.5115875, 88.2148594</description>
+      <styleUrl>#icon-1453-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          88.214859,22.511588,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Batanagar Hiland Green PSS no. 2 (UM)(Areva)</name>
+      <description>22.5108875, 88.2169219</description>
+      <styleUrl>#icon-1453-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          88.216922,22.510888,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Batanagar Hiland Green PSS no. 3 (SND)</name>
+      <description>22.5105875, 88.2163594</description>
+      <styleUrl>#icon-1453-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          88.216359,22.510588,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Batanagar Hiland Green PSS no. 4 (SND)</name>
+      <description>22.5102875, 88.2157969</description>
+      <styleUrl>#icon-1453-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          88.215797,22.510288,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Batanagar Hiland Green PSS no. 5 (SND)</name>
+      <description>22.5105625, 88.2157656</description>
+      <styleUrl>#icon-1453-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          88.215766,22.510562,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Batanagar Hiland Green PSS no. 6 (SND)</name>
+      <description>22.5116875, 88.2166719</description>
+      <styleUrl>#icon-1453-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          88.216672,22.511688,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Batanagar Hiland Green PSS no. 7 (SND)</name>
+      <description>22.5117125, 88.2157656</description>
+      <styleUrl>#icon-1453-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          88.215766,22.511712,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Batanagar Hiland Green PSS no. 8 (SND)</name>
+      <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AN6v0v6o3jqA5NNkRSOUHF4kkWWplwPYId5Op3M3jAaMEyPti6aatOC9cJHfaEAB2l9KXqup1jHsWTsowqnP3nm-P9WdGpK0cGA4IS3_eBiuVZQhIRZEFZB5Zaj5bASCuPvlzdr5WFEp6KsqzAWfJQQxEe1PvD63CcLIPxBz2fKDn4UafbZJtdV5se3bg1aCM48wzeTSJyZG0G23Ar3bQnSFzT56HrgsQLYed-iHfWBt9YHaK9FlBiNyjePYjkfPJZ37gLx6cz09m9-Ed7Pf3vqqrWRFERdH1nHTA9bm0VdUDgr2_yjsQznAf08lOiWfuai7sp6kuP7uz253NDerDFrn5hUqCJ8Xr19RMQLvIs8JwoC6_7SaIEN1Y3h3Gioz72sD_Wm6osbO9F07SUS9wrHHiT16k8RNODQNKM0w0H7L8pOKTALq48cwimrSA3KARLWa0EHToUZSpEI8YL8FNXef9ezi9EwH5aCVyIpcDvJSwnXzkHd0yLRouLe2cMV0tKSAxTDQahrpGwYvdWeydb8ch0fMOVec1fQl_xxQ5im2S7P1ffVpLQfVbKN_1y8QrFgpWUg1-NSQFUVsrgBzq61Iy8DSqflUJbzLcWZAcSt6Iyixk6FARLPzgXDNYm4fdVXY-kIj-SLhMdGn43N8NWaTs_ouOrSsUWQ1LKxC6xtIK_I63EUdGamxtyzpzt35BeDaxShGFfUM1gV5fsEtfCAoclazndoru3hAir8" height="200" width="auto" /><br><br>22.5110875, 88.2153281<br><br><img src="https://lh3.googleusercontent.com/umsh/AN6v0v5RWxmvwi-wiwZVNbTeikqtSvZJJyqJmqR75wTVfGl6hfcvTEjTOm7O-ICZe0IRGkCpaX-dEbYwVfWi1ReirjDsoXSBnt9XPgX0_gcXuYQJXTKNAJV-FgeoFnXA8QWbn2dnt6-7Vrsn_VAuMQgkNaCktwMsCleELXlX6DFmNWZfnbRw6TMViRl4O7RXkaE7W4FNKkMEdEJMnNWHA6ciXOjSm58Ey-a6FaaUpzpqBzW-e2dj32tT2kE9LBOYIvhwbO5e18xtEzWRlJqD8e7HSUJ09GHBGNkfVp0eAQz5-MarNxXbkDkiDBMmtGDb_I347JFr_gxpF7Zpx4emYpfaMnVIe6pg-lLbqvPm56n10yaAytTS0xJJApdEO45BixyE99VR_07ayh_4Brza5Wgpz2r60YlNFsag41AIzkVQJxVtMpNYKnTz5VxrOfNQC-z9DNJSfaDjzmp8cn3f1jAfUvQhvYHQUaD8R72x3AopIgDmTdi8XVkTLIaRmymt31xU4EF9M7jnifFxfwtgIFdPbJxrgCQX_uqwu5JlPRLvWR--eWHNUIZPmxNNUNh6YwzSXpcyOmUo4kyGpHX7nTtaJ8HSzaxC8KhV8rKSJqVIXVkjWiLepwr_BmQ89o2vs9C3BAV-I24Ytv1i2fcwmlaS3uFv04clHNQPV_7dMAjaKDCINrioy073SFnDA5-OfT2IrFKOrVk3NYn1Qcn0XFNyu485ZVgnIBfFO-0" height="200" width="auto" /><br><br><img src="https://lh3.googleusercontent.com/umsh/AN6v0v4i_IBLiBcMYQz1ph9CQ1v90MlVGjTgn6cKNVziBfgcOANxmnwGqDx_ST7Jn1cI9OTNQfBKxV_QARihtT6Us7Kzsm9ZxlpWiOf_yW7yPf1QjD_m8PQiRqIWClRuXZe8oxgolmMtbos4HkjzYzHYLd6kLXTCYWEtWz4eFfnxumEs5izaWr12Xa_mSFPQyvSF_JZp_VQotR4jUtnGHXdqW9qh2yLqJOObDQMl9bLh5_ctaZsI0f9Amkc5g5nzpaXPS_9PbtDjs1pEHfifig4852-F2DXjNQvBYttXvFA4xYSEqOmCSar12T37iy13XIahoRB6jpxxchkaNoBUsxwFBddgFR6ZMAXFuhF9BK7V0YM6zJMOpuzKV3zZvPkUi92ByqaSR5OM8nJZn3Tu2XvCYJlTBU2gj4vPwQxw_uZTF755tZQ5zDhOzZZuFt0sC6zDFPcIwDFkBJjJZ9uG0009vtcXV3hXdOXvGZrqGUe9DiWMrOO7-xjXmV-W_4RzZmOQqGDpYohcyxB8VFoe_WzXQOKG8CyjU_mko-OWyxsABoYn33Hxh5RcekBsrKQxVzH2433TjLhauf3Nlm3qNqY7W4IkfwiJsN0Z2yse2iyLICmwBcVVd04sJxtUhoHFdwbH5_9k1VE94y7vu27VtRV_Iy2_5jGm4psks5-AJkw7ZL_25it__0BIBJ3IzmLfIE2EycDZhUizdnB2mvGeuPmZ870aOwR0yDpZhoc" height="200" width="auto" />]]></description>
+      <styleUrl>#icon-1453-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>https://lh3.googleusercontent.com/umsh/AN6v0v6o3jqA5NNkRSOUHF4kkWWplwPYId5Op3M3jAaMEyPti6aatOC9cJHfaEAB2l9KXqup1jHsWTsowqnP3nm-P9WdGpK0cGA4IS3_eBiuVZQhIRZEFZB5Zaj5bASCuPvlzdr5WFEp6KsqzAWfJQQxEe1PvD63CcLIPxBz2fKDn4UafbZJtdV5se3bg1aCM48wzeTSJyZG0G23Ar3bQnSFzT56HrgsQLYed-iHfWBt9YHaK9FlBiNyjePYjkfPJZ37gLx6cz09m9-Ed7Pf3vqqrWRFERdH1nHTA9bm0VdUDgr2_yjsQznAf08lOiWfuai7sp6kuP7uz253NDerDFrn5hUqCJ8Xr19RMQLvIs8JwoC6_7SaIEN1Y3h3Gioz72sD_Wm6osbO9F07SUS9wrHHiT16k8RNODQNKM0w0H7L8pOKTALq48cwimrSA3KARLWa0EHToUZSpEI8YL8FNXef9ezi9EwH5aCVyIpcDvJSwnXzkHd0yLRouLe2cMV0tKSAxTDQahrpGwYvdWeydb8ch0fMOVec1fQl_xxQ5im2S7P1ffVpLQfVbKN_1y8QrFgpWUg1-NSQFUVsrgBzq61Iy8DSqflUJbzLcWZAcSt6Iyixk6FARLPzgXDNYm4fdVXY-kIj-SLhMdGn43N8NWaTs_ouOrSsUWQ1LKxC6xtIK_I63EUdGamxtyzpzt35BeDaxShGFfUM1gV5fsEtfCAoclazndoru3hAir8 https://lh3.googleusercontent.com/umsh/AN6v0v5RWxmvwi-wiwZVNbTeikqtSvZJJyqJmqR75wTVfGl6hfcvTEjTOm7O-ICZe0IRGkCpaX-dEbYwVfWi1ReirjDsoXSBnt9XPgX0_gcXuYQJXTKNAJV-FgeoFnXA8QWbn2dnt6-7Vrsn_VAuMQgkNaCktwMsCleELXlX6DFmNWZfnbRw6TMViRl4O7RXkaE7W4FNKkMEdEJMnNWHA6ciXOjSm58Ey-a6FaaUpzpqBzW-e2dj32tT2kE9LBOYIvhwbO5e18xtEzWRlJqD8e7HSUJ09GHBGNkfVp0eAQz5-MarNxXbkDkiDBMmtGDb_I347JFr_gxpF7Zpx4emYpfaMnVIe6pg-lLbqvPm56n10yaAytTS0xJJApdEO45BixyE99VR_07ayh_4Brza5Wgpz2r60YlNFsag41AIzkVQJxVtMpNYKnTz5VxrOfNQC-z9DNJSfaDjzmp8cn3f1jAfUvQhvYHQUaD8R72x3AopIgDmTdi8XVkTLIaRmymt31xU4EF9M7jnifFxfwtgIFdPbJxrgCQX_uqwu5JlPRLvWR--eWHNUIZPmxNNUNh6YwzSXpcyOmUo4kyGpHX7nTtaJ8HSzaxC8KhV8rKSJqVIXVkjWiLepwr_BmQ89o2vs9C3BAV-I24Ytv1i2fcwmlaS3uFv04clHNQPV_7dMAjaKDCINrioy073SFnDA5-OfT2IrFKOrVk3NYn1Qcn0XFNyu485ZVgnIBfFO-0 https://lh3.googleusercontent.com/umsh/AN6v0v4i_IBLiBcMYQz1ph9CQ1v90MlVGjTgn6cKNVziBfgcOANxmnwGqDx_ST7Jn1cI9OTNQfBKxV_QARihtT6Us7Kzsm9ZxlpWiOf_yW7yPf1QjD_m8PQiRqIWClRuXZe8oxgolmMtbos4HkjzYzHYLd6kLXTCYWEtWz4eFfnxumEs5izaWr12Xa_mSFPQyvSF_JZp_VQotR4jUtnGHXdqW9qh2yLqJOObDQMl9bLh5_ctaZsI0f9Amkc5g5nzpaXPS_9PbtDjs1pEHfifig4852-F2DXjNQvBYttXvFA4xYSEqOmCSar12T37iy13XIahoRB6jpxxchkaNoBUsxwFBddgFR6ZMAXFuhF9BK7V0YM6zJMOpuzKV3zZvPkUi92ByqaSR5OM8nJZn3Tu2XvCYJlTBU2gj4vPwQxw_uZTF755tZQ5zDhOzZZuFt0sC6zDFPcIwDFkBJjJZ9uG0009vtcXV3hXdOXvGZrqGUe9DiWMrOO7-xjXmV-W_4RzZmOQqGDpYohcyxB8VFoe_WzXQOKG8CyjU_mko-OWyxsABoYn33Hxh5RcekBsrKQxVzH2433TjLhauf3Nlm3qNqY7W4IkfwiJsN0Z2yse2iyLICmwBcVVd04sJxtUhoHFdwbH5_9k1VE94y7vu27VtRV_Iy2_5jGm4psks5-AJkw7ZL_25it__0BIBJ3IzmLfIE2EycDZhUizdnB2mvGeuPmZ870aOwR0yDpZhoc</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          88.215328,22.511088,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Batanagar Hiland Green PSS no. 9 (SND)</name>
+      <description>22.5108625, 88.2150156</description>
+      <styleUrl>#icon-1453-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          88.215016,22.510862,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Batanagar Hiland Green PSS no. 1 (SND)</name>
+      <description>22.5108125, 88.2174219</description>
+      <styleUrl>#icon-1453-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          88.217422,22.510812,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Batanagar Riverside PH 1 PSS 5 (ABB)</name>
+      <description>22.5125625, 88.2139531</description>
+      <styleUrl>#icon-1453-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          88.213953,22.512562,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Batanagar Riverside PH 1 PSS 6 (UM)</name>
+      <description>22.5094375, 88.2201094</description>
+      <styleUrl>#icon-1453-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          88.220109,22.509438,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Batanagar Riverside PH 1 PSS 2</name>
+      <description>22.5088375, 88.2255156</description>
+      <styleUrl>#icon-1453-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          88.225516,22.508838,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Batanagar Riverside PH 1 PSS 1 (UM)</name>
+      <description>22.5084875, 88.2250156</description>
+      <styleUrl>#icon-1453-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          88.225016,22.508488,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>South City PSS T2 (SND)</name>
+      <description>22.5009375, 88.3600469</description>
+      <styleUrl>#icon-1453-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          88.360047,22.500938,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>South City PSS T1 (SND)</name>
+      <description>22.5009268, 88.3600392</description>
+      <styleUrl>#icon-1453-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          88.360039,22.500927,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Avidipta HSG PSS No 2 (UM) (Areva)</name>
+      <description>22.4935155, 88.4004229</description>
+      <styleUrl>#icon-1453-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          88.400423,22.493516,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Avidipta HSG PSS No 3 (ABB)</name>
+      <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGQqg_0JyLXRNlv48JvTaTMT4OevgW60AayTALCr7hp7VXZsTZEudmcJw06Z2gq3DGWdIKT2tZ7ynVc4ImdMPlt0AdXbBU2okagQYopqH1bwS9MXnwm3vByPp0LXXnrASuoWN6nrA5KL40KCE7dOjW2kCSOBYWQbYpf4fZIFE_aG8ZpDaQ-PCBqXuuoywcBOJFZeHSAW_8jot84XVb7_tKCYCptSZumAvNjj_45dfchgQ-D_k5nayKP-otA?authuser=1&fife=s16383" height="200" width="auto" /><br><br>22.49312, 88.39908<br><br><img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGQp0C5WyTyEuW1R-Uo-1ul_Gm6Y7sWGxDKC6P5wL4Vtb4dkmN9GgtiI8-XTFrIkB3-NtOCjC9LineORtYSW97D7kuosO0hatHPzMIKHFFAGW8Pp8MpxbxEHSUmwBzOQyd_hxBXZl2CyxIwE85L5DDQVVCRQLZ2k1FZmPGJqV6kN-ZXSk3rv2lyz_gGFG2DcrXOTbEPgYxzODchL9EH8DiEfPwyH5e968mamPwRKtEoWAo8XKciXSmWZ-EY?authuser=1&fife=s16383" height="200" width="auto" /><br><br><img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGSwJ3w1Eb4o8FBZJudBhE7Yclty8V70tNVdhp1gy5PtEktgfCkkbK_7Mz7LaE7T9Aa6_LRKLUd_w9yx36eQhHVvjlnnhS0O72u4UjXLUuXRXiQZTvGoDMAKK9iCFOfI_fJoort3Mnq-7gIQNLoM_sDkSdnxlv6iG2lFONUxgSALdfhqcFgbGTnchpDh3avG5w1yuO5ssfrFdqyNzCPHQ9skWVr9Ns2LtZVgZnmHby3-X7y0XQrsF-dZ3vQ?authuser=1&fife=s16383" height="200" width="auto" /><br><br><img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGQ7ESgQYzI579uDScuGN_MZJNc9h3MgYDCGrDD7QMVytjT1Fc-Wmq2L_iABVoQjT1K2ns-RW6Lb-4l-x08UI23_1j4G5Po4S36pneUiLFUtn5TZ0quHuuFkjrpoD1TYkwrgCbICRrp2oiDYxMIXGYLz66oV-FJ_t2MFz7LdzO9fpUVCDUGvO38_A04msdx0M0zBu5Sh-z0cnxDOsW0FXnYRb81BU1XTwTfFXcCdBW1RioKWxSiNVh8NiCE?authuser=1&fife=s16383" height="200" width="auto" /><br><br><img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGSdO_uCz-esmY6vvQ6crNeBzpNgLk5Pp9r0rGl2egtz5mtcU0X4FoH-VHcqk9a3ZXRUc_WB5ytuynIBqDIneCy2Kbq4lpIb_DEue9eq5YwP2lc2N6qodS07gLL1dSM6tM9VWU8uzidO83hFkJcTLjSkvnd9JkvtmCdnCEAYl1legaT8gIeR6zipLp7pUckTUXSB6l6ECm3tmZI4k0StUhF9E47Tb2oxQsexSDxVneWObwJSXu4J80vxB24?authuser=1&fife=s16383" height="200" width="auto" /><br><br><img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGSUdF96uSCLhMLSILLXQMobLtRxd4zYthWjhxj_86cnSgIzM9N2_JgDnZxa_udGtLm_uPn1wcj91MyVUKPQMNuNgvEuHALRw8DV_lCkrL4QBszBGi2q2c_AjX8FZWPQ5HDnH6WCR_Pwm_7sRG2Ty0y4hwgORHGsra4lhqQ_6u-GfipuUH82n7uydMO0S7KGu0tmBPlQLWIynY7StYQLXjvD0pC97uvF6oCtGGc7m7JXx2a-IxShNDhecC0?authuser=1&fife=s16383" height="200" width="auto" /><br><br><img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGRdvP7uV5aFcOJ3HP9afqus1qPi3vAdgWKM01LkwM51NjhI3mBXpSOgmx7kBt6W0VBtXwfCIQAierbpJlRAp--D17Of9GgNqnpCdj77WyajCo6Sv18jbIIK-rIHQxg91IPE8PL8XG5alU9OeN3I3na1CE8nguCueg7Vx5-BZHChPE9vLoGN3hgKN4rmtcShkJLZGsCDG6XRV9RTXgTXoKEI2fsBPAcVvtOHVhOAj3VM6Mz925rMaVnix04?authuser=1&fife=s16383" height="200" width="auto" /><br><br><img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGRyhxxxMntB0I7kjNcNIWZkAgL8RS6oPjS1eA2CoWgcse6oAyAdpfnayTqGBlhZ92GcipzPhUBjSjp1MUuWXvYsxikxwbeTXuMoVxcZJ4MIMUhJT_cgd9mVaRF13Ssz4v3H97C6R5zeefPGso4kuq5gUAuHkDnTUbNmwH9XtDn8pnOy5V14hbTxFGTSNqnoRqC0-QP6Wr3jrQcGLGOX95_VtCDW3frWaRUcz2BWAe-MEJO9mAn1yocDDDM?authuser=1&fife=s16383" height="200" width="auto" /><br><br><img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGR-UacQVJXM752fQpiaiVOfAKF4haolAlpmQyH7meMq9EYqF4APTpZEbaNozoHyK_RzKZ6fFz-SZZluCAJTEQNNY4oI5qutrg4GjjYYFJa6C-H86TexoYfesCR4NhNoNM3pK1zO5YGF-dGH8gh8wgt9ry8YU6S1vLLck0dlkmZtyu6HmCjWNKogmehkGaiP-KmeynZ2Nf---H39pm3W26lXRlHF0Sjh0LRIkPAoKf20128Tp5QoMCjcfII?authuser=1&fife=s16383" height="200" width="auto" />]]></description>
+      <styleUrl>#icon-1453-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGQqg_0JyLXRNlv48JvTaTMT4OevgW60AayTALCr7hp7VXZsTZEudmcJw06Z2gq3DGWdIKT2tZ7ynVc4ImdMPlt0AdXbBU2okagQYopqH1bwS9MXnwm3vByPp0LXXnrASuoWN6nrA5KL40KCE7dOjW2kCSOBYWQbYpf4fZIFE_aG8ZpDaQ-PCBqXuuoywcBOJFZeHSAW_8jot84XVb7_tKCYCptSZumAvNjj_45dfchgQ-D_k5nayKP-otA?authuser=1&fife=s16383 https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGQp0C5WyTyEuW1R-Uo-1ul_Gm6Y7sWGxDKC6P5wL4Vtb4dkmN9GgtiI8-XTFrIkB3-NtOCjC9LineORtYSW97D7kuosO0hatHPzMIKHFFAGW8Pp8MpxbxEHSUmwBzOQyd_hxBXZl2CyxIwE85L5DDQVVCRQLZ2k1FZmPGJqV6kN-ZXSk3rv2lyz_gGFG2DcrXOTbEPgYxzODchL9EH8DiEfPwyH5e968mamPwRKtEoWAo8XKciXSmWZ-EY?authuser=1&fife=s16383 https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGSwJ3w1Eb4o8FBZJudBhE7Yclty8V70tNVdhp1gy5PtEktgfCkkbK_7Mz7LaE7T9Aa6_LRKLUd_w9yx36eQhHVvjlnnhS0O72u4UjXLUuXRXiQZTvGoDMAKK9iCFOfI_fJoort3Mnq-7gIQNLoM_sDkSdnxlv6iG2lFONUxgSALdfhqcFgbGTnchpDh3avG5w1yuO5ssfrFdqyNzCPHQ9skWVr9Ns2LtZVgZnmHby3-X7y0XQrsF-dZ3vQ?authuser=1&fife=s16383 https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGQ7ESgQYzI579uDScuGN_MZJNc9h3MgYDCGrDD7QMVytjT1Fc-Wmq2L_iABVoQjT1K2ns-RW6Lb-4l-x08UI23_1j4G5Po4S36pneUiLFUtn5TZ0quHuuFkjrpoD1TYkwrgCbICRrp2oiDYxMIXGYLz66oV-FJ_t2MFz7LdzO9fpUVCDUGvO38_A04msdx0M0zBu5Sh-z0cnxDOsW0FXnYRb81BU1XTwTfFXcCdBW1RioKWxSiNVh8NiCE?authuser=1&fife=s16383 https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGSdO_uCz-esmY6vvQ6crNeBzpNgLk5Pp9r0rGl2egtz5mtcU0X4FoH-VHcqk9a3ZXRUc_WB5ytuynIBqDIneCy2Kbq4lpIb_DEue9eq5YwP2lc2N6qodS07gLL1dSM6tM9VWU8uzidO83hFkJcTLjSkvnd9JkvtmCdnCEAYl1legaT8gIeR6zipLp7pUckTUXSB6l6ECm3tmZI4k0StUhF9E47Tb2oxQsexSDxVneWObwJSXu4J80vxB24?authuser=1&fife=s16383 https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGSUdF96uSCLhMLSILLXQMobLtRxd4zYthWjhxj_86cnSgIzM9N2_JgDnZxa_udGtLm_uPn1wcj91MyVUKPQMNuNgvEuHALRw8DV_lCkrL4QBszBGi2q2c_AjX8FZWPQ5HDnH6WCR_Pwm_7sRG2Ty0y4hwgORHGsra4lhqQ_6u-GfipuUH82n7uydMO0S7KGu0tmBPlQLWIynY7StYQLXjvD0pC97uvF6oCtGGc7m7JXx2a-IxShNDhecC0?authuser=1&fife=s16383 https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGRdvP7uV5aFcOJ3HP9afqus1qPi3vAdgWKM01LkwM51NjhI3mBXpSOgmx7kBt6W0VBtXwfCIQAierbpJlRAp--D17Of9GgNqnpCdj77WyajCo6Sv18jbIIK-rIHQxg91IPE8PL8XG5alU9OeN3I3na1CE8nguCueg7Vx5-BZHChPE9vLoGN3hgKN4rmtcShkJLZGsCDG6XRV9RTXgTXoKEI2fsBPAcVvtOHVhOAj3VM6Mz925rMaVnix04?authuser=1&fife=s16383 https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGRyhxxxMntB0I7kjNcNIWZkAgL8RS6oPjS1eA2CoWgcse6oAyAdpfnayTqGBlhZ92GcipzPhUBjSjp1MUuWXvYsxikxwbeTXuMoVxcZJ4MIMUhJT_cgd9mVaRF13Ssz4v3H97C6R5zeefPGso4kuq5gUAuHkDnTUbNmwH9XtDn8pnOy5V14hbTxFGTSNqnoRqC0-QP6Wr3jrQcGLGOX95_VtCDW3frWaRUcz2BWAe-MEJO9mAn1yocDDDM?authuser=1&fife=s16383 https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGR-UacQVJXM752fQpiaiVOfAKF4haolAlpmQyH7meMq9EYqF4APTpZEbaNozoHyK_RzKZ6fFz-SZZluCAJTEQNNY4oI5qutrg4GjjYYFJa6C-H86TexoYfesCR4NhNoNM3pK1zO5YGF-dGH8gh8wgt9ry8YU6S1vLLck0dlkmZtyu6HmCjWNKogmehkGaiP-KmeynZ2Nf---H39pm3W26lXRlHF0Sjh0LRIkPAoKf20128Tp5QoMCjcfII?authuser=1&fife=s16383]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          88.3990883,22.4931228,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Avidipta HSG PSS No 4 (UM) (Areva)</name>
+      <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGTfLw7AbCaTtzMarCa16db4U6rVLNUzPQabQwSJiPpcGP4SYFq7qo2zBEZTMbKxWvpYXwBqtF74qwZFMcCydNpDKpOr_aN5TwZenUXPeUacsVkUdIelqMHHM_Qn-EgZ9p8eCRUetfnPBvu5zWk0tF6X-vTQnVFvf_x-IuS3YbSmnb247iQnGQh4oWJ0Kggqe_Fm0rUTlV4BDnw42K3bwUSdfhVrj4yJFx9D4HKbaqOwZZAJYAwJh37W1Oc?authuser=1&fife=s16383" height="200" width="auto" /><br><br>22.49313, 88.39908<br><br><img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGTnxi8esIoSWBR2CFy2L0-9Tepvp9SdR7ytUl-4UhTzimPNkAqKhKY4BiycHGks7-GXJpUMEEQU6v8BZ4cirrqfNg9RRivopkmhtKZP_ygSQi4tM-jLej5Ahz1rUiA4UMBUbWOfG55k3iA6KYyAkn4llXn4RAVxU8uyXNorOpJ5WHoYEA-INuOnaK_9-EAgN3NkgunLAKRvW0fovgd0-eSg02XntI99DOyWs1xNqL41PJKiS5sLrbKlHF4?authuser=1&fife=s16383" height="200" width="auto" />]]></description>
+      <styleUrl>#icon-1453-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGTfLw7AbCaTtzMarCa16db4U6rVLNUzPQabQwSJiPpcGP4SYFq7qo2zBEZTMbKxWvpYXwBqtF74qwZFMcCydNpDKpOr_aN5TwZenUXPeUacsVkUdIelqMHHM_Qn-EgZ9p8eCRUetfnPBvu5zWk0tF6X-vTQnVFvf_x-IuS3YbSmnb247iQnGQh4oWJ0Kggqe_Fm0rUTlV4BDnw42K3bwUSdfhVrj4yJFx9D4HKbaqOwZZAJYAwJh37W1Oc?authuser=1&fife=s16383 https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGTnxi8esIoSWBR2CFy2L0-9Tepvp9SdR7ytUl-4UhTzimPNkAqKhKY4BiycHGks7-GXJpUMEEQU6v8BZ4cirrqfNg9RRivopkmhtKZP_ygSQi4tM-jLej5Ahz1rUiA4UMBUbWOfG55k3iA6KYyAkn4llXn4RAVxU8uyXNorOpJ5WHoYEA-INuOnaK_9-EAgN3NkgunLAKRvW0fovgd0-eSg02XntI99DOyWs1xNqL41PJKiS5sLrbKlHF4?authuser=1&fife=s16383]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          88.399089,22.4931352,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Avidipta HSG PSS No 5 (UM) (Areva)</name>
+      <description>22.4922592, 88.399988</description>
+      <styleUrl>#icon-1453-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          88.399988,22.492259,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Panditia PSS No 1 (Siemens) (Inside Fort Oasis Complex)</name>
+      <description>22.5218375, 88.3562344</description>
+      <styleUrl>#icon-1453-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          88.356234,22.521838,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Panditia PSS No 2 (Siemens) (Inside Fort Oasis Complex)</name>
+      <description>22.5220375, 88.3569844</description>
+      <styleUrl>#icon-1453-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          88.356984,22.522038,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Panditia PSS No 3 (ABB) (Inside Fort Oasis Complex)</name>
+      <description>22.5236125, 88.3565156</description>
+      <styleUrl>#icon-1453-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          88.356516,22.523612,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sadananda Rd PSS (Areva) (Inside 5A, Sadananda Rd, Kolkata - 700026)</name>
+      <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AN6v0v5RTUMSzcY27T2k4fLbcYAStVtYmzKb4OINvB7qdo7H77zq42IxnjaAd26n0c6oKQqhRk_He5wAUjVkp4kNICOpvq8Y8FUHBcnG7Pk9gNZmGmyTJgRv99oAHay1I33p4qyxUnb6BbibtrNsryrjGBvXyStPkBIKescyEfbDeLWC95otpi_pMnDta8D_4eJgdScAjwrrCCbmK6U7ksISzypp-CbHwEaxk7t8SfW1E9N6-0GTHA6lc2Cd4DCO0yn9rkNXPZ5RG-OlTQJlgQrtJiPaunmCezCfjxwqDCAzvvM3xb18V6nQ8hTyyD4XvGkH1oEcH-9ogpQFkRfpX2fjKQp-ZtTSUlhljzkHMIAtIfA6TERJnlUC0itNZmzlnDkWO4MeC6ldToRbkPd8bs8lVYF85m62z3gW4oYCGmHXbCyMwUI8MMR8jhPJId8ZDJDTWRNvImEN9h7UeuT9gBYwmX4tNmbBqWcWmCdqaOUlsn2zLPYu5aGrEYnIkv8vk_Vn-KOrVBfZv60c5l90GsTg1NTc2PM4NypXrE0KlI_af-1p6VqVMsYPcg7rv11K9cOUdlBhOIGqYpkcs_NamtLy-rGHBDLVbdabdhgLNZnmC1aPODB4E5AYquBiNNSCbVRM53UbjdjGEHiwOqCySnZpjHyQByfaJsQxqYU73b9qS-GuwkQ56m9v-eYwKiHvzPN6OdGlhcXscLe-ZAdb72ZL_4nttfzgfYWp4A" height="200" width="auto" /><br><br>22.5230875, 88.3459844<br><br><img src="https://lh3.googleusercontent.com/umsh/AN6v0v5pHKHRA2pxQSOQ4gMN6LhGKKtX6pIoUYkybmMuD5CgPNEPCuWpUq5GOmg_HxDvbcA86KZTgukhkxof2O97ctw5ImxigKmd4TtEOMwWFxy_l6PYc-W5gmu_VjZTpynoNs3Qxt7r2TizquHPGNLAW7bijpMTHttTnxSG6Ey2AWaHj8KyfufBOcUx6K4g7qvmHZaP9OShW4mO0hWMbjjqDGXQl3lBSXAWKaUw4SUyzIZacBxPVgoq_Qlycob8gTFOVwztN19vpO8_XxxcuH5ryZ1rUlB-6lcO07hBwlKKRRVRXljnSw9-lJvlmJdo8M-ygbGUAWqVM90n_EQZ2wxmwu_QCpSCQIo4kyFDg879NIBwgcEEmjldYN_Oi8wEXCvObxjAp_hhMAb-wH9vLEpCzraVxNY5LvPvRgB5PbDZVOlLisakA2WstfJhOcqb5m908GLVKlNukGlPjPNv-LoMEVrzf1sVBPev_s1_pnT7l8S62TZ0N-vM1iapy7NuJSRR_RbSyCKWHb15K9NfJZPN-paYBS0mGKnHmBQNuSdqixqSefPZLJrt5qfP4zvWQ65B4L9pGeNBNYOdJei8oJojIEO7BVLZwtvu-zcgtoiFTPZMjXFZBJa7a8Z7BpJLXb3weSrjZu21qYpQqY5MPbydhBobWCuedPeODYAVbTIi0wUtgTUYbZ3ABaEe8s0qb9vnnK6b-LL9H0YxfVsomtihmltfW9BUdIlNFS8" height="200" width="auto" />]]></description>
+      <styleUrl>#icon-1453-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>https://lh3.googleusercontent.com/umsh/AN6v0v5RTUMSzcY27T2k4fLbcYAStVtYmzKb4OINvB7qdo7H77zq42IxnjaAd26n0c6oKQqhRk_He5wAUjVkp4kNICOpvq8Y8FUHBcnG7Pk9gNZmGmyTJgRv99oAHay1I33p4qyxUnb6BbibtrNsryrjGBvXyStPkBIKescyEfbDeLWC95otpi_pMnDta8D_4eJgdScAjwrrCCbmK6U7ksISzypp-CbHwEaxk7t8SfW1E9N6-0GTHA6lc2Cd4DCO0yn9rkNXPZ5RG-OlTQJlgQrtJiPaunmCezCfjxwqDCAzvvM3xb18V6nQ8hTyyD4XvGkH1oEcH-9ogpQFkRfpX2fjKQp-ZtTSUlhljzkHMIAtIfA6TERJnlUC0itNZmzlnDkWO4MeC6ldToRbkPd8bs8lVYF85m62z3gW4oYCGmHXbCyMwUI8MMR8jhPJId8ZDJDTWRNvImEN9h7UeuT9gBYwmX4tNmbBqWcWmCdqaOUlsn2zLPYu5aGrEYnIkv8vk_Vn-KOrVBfZv60c5l90GsTg1NTc2PM4NypXrE0KlI_af-1p6VqVMsYPcg7rv11K9cOUdlBhOIGqYpkcs_NamtLy-rGHBDLVbdabdhgLNZnmC1aPODB4E5AYquBiNNSCbVRM53UbjdjGEHiwOqCySnZpjHyQByfaJsQxqYU73b9qS-GuwkQ56m9v-eYwKiHvzPN6OdGlhcXscLe-ZAdb72ZL_4nttfzgfYWp4A https://lh3.googleusercontent.com/umsh/AN6v0v5pHKHRA2pxQSOQ4gMN6LhGKKtX6pIoUYkybmMuD5CgPNEPCuWpUq5GOmg_HxDvbcA86KZTgukhkxof2O97ctw5ImxigKmd4TtEOMwWFxy_l6PYc-W5gmu_VjZTpynoNs3Qxt7r2TizquHPGNLAW7bijpMTHttTnxSG6Ey2AWaHj8KyfufBOcUx6K4g7qvmHZaP9OShW4mO0hWMbjjqDGXQl3lBSXAWKaUw4SUyzIZacBxPVgoq_Qlycob8gTFOVwztN19vpO8_XxxcuH5ryZ1rUlB-6lcO07hBwlKKRRVRXljnSw9-lJvlmJdo8M-ygbGUAWqVM90n_EQZ2wxmwu_QCpSCQIo4kyFDg879NIBwgcEEmjldYN_Oi8wEXCvObxjAp_hhMAb-wH9vLEpCzraVxNY5LvPvRgB5PbDZVOlLisakA2WstfJhOcqb5m908GLVKlNukGlPjPNv-LoMEVrzf1sVBPev_s1_pnT7l8S62TZ0N-vM1iapy7NuJSRR_RbSyCKWHb15K9NfJZPN-paYBS0mGKnHmBQNuSdqixqSefPZLJrt5qfP4zvWQ65B4L9pGeNBNYOdJei8oJojIEO7BVLZwtvu-zcgtoiFTPZMjXFZBJa7a8Z7BpJLXb3weSrjZu21qYpQqY5MPbydhBobWCuedPeODYAVbTIi0wUtgTUYbZ3ABaEe8s0qb9vnnK6b-LL9H0YxfVsomtihmltfW9BUdIlNFS8</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          88.345984,22.523088,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Proposed Avidipta PSS </name>
+      <description>22.490473, 88.3991268</description>
+      <styleUrl>#icon-1453-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          88.399127,22.490473,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>AJC Bose Rd PSS (SND)</name>
+      <description>22.5409375, 88.3538906</description>
+      <styleUrl>#icon-1453-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          88.353891,22.540938,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Agarwala Garden Rd PSS (ABB) (Inside Blossom County, 180A, Kabiguru Sarani, Buroshibtalla, Behala, Kolkata 38)</name>
+      <description>22.5017375, 88.3278594</description>
+      <styleUrl>#icon-1453-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          88.327859,22.501738,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Andul Rd PSS (SND) (Inside Lemon Botany Housing Complex)</name>
+      <description>22.5660375, 88.2782344</description>
+      <styleUrl>#icon-1453-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          88.278234,22.566038,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ballygunge Park PSS (SIEMENS) (Inside Unimark Grand, 36, Ballygunge Park Rd, Kol - 19)</name>
+      <description>22.5319625, 88.3659844</description>
+      <styleUrl>#icon-1453-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          88.365984,22.531962,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Beliaghata PSS (UM) (Inside Beliaghata Industrial Estate)</name>
+      <description>22.56548, 88.39257</description>
+      <styleUrl>#icon-1453-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          88.39257,22.56548,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bentinck St PSS (ABB)
+(Inside M K Point Commercial Complex)</name>
+      <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGRgw1cAxzSxjHcNqZGJuidRsl2y08nYqrEdPnrKaq2TGuQBu-PeUXpFpAKjX3_V8inXOQ17YyPcGEHMHTmvUzuZqFDeReQ_2aLZKpUOyxY7wEz5unLBg8YtZsDn4XmOn1nUgrazFcVFU6qjOA_OvtwIE5ypyferR9EJZJsTeKj0TXUo65Fs8brIM9wdnupwAR_a4uVshzPLLoyj5_xRqZ_SPq0NZxmWmiwmQ3Dy6uXjLa5BwL6u0tNacA0?authuser=1&fife=s16383" height="200" width="auto" /><br><br>22.5686125, 88.3524844<br><br><img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGRkcI2KiHNWUr9W6pQfYSDvxHogYkNemTndRyCwIX84U54-EE53DG6lumQfcflr3I5TT7FxLsmEu2-hkw1jvTVCuWEV1WnuVbj_ZhRUXu_62YEn-a1b06Pcm7LYXQnrCbIudplHzBUeT5Sx8grKBkFLJ-CkDGshwhatPcV-x9PpFBpbkAJd0gfjMYgM9AmeWv_Ej-8ASPlCzgavQpwnMvk94VgBqJe8YmAQc6Ru02D24CzXZHxORPZJ0y8?authuser=1&fife=s16383" height="200" width="auto" /><br><br><img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGQJf83AkjrRIEpaUknIU7LHn1Aqzn8iSraPly6ZrAnpBHe2qj5w134-zpu27tiPBJrxhVdPOKH8eFI4Sp1kXbFrTW-RazXiMmR0QTnG1iaVXjLwoNB2lCCtGJnIy_ZJODiXcsTcVh6wEH7ODEV4Ae2psxkTOrUPfFP6IFrBsSZQN7BkrQcibYW-Q_f5A8Xa9j5rauXdr3Mu35TACtei9MmBNAlnNArRiLJo-MEXjrtcBT1ZaVHHeR9n2-c?authuser=1&fife=s16383" height="200" width="auto" /><br><br><img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGT-TbOswiwe7c2YdfQ8B_iRmbi8oWSh_oGl0dH8HITE9vx_Pv8Jqdm2ntsEFTu1gGJjLPZp34rvcR8_iyggH4OEtFS28UeHQKASKbpqBp1G34BGky2BADvCb-xK6drE0yPnYMxAQ0S0fYBA8UFuMzR7BVjLkZg64Xuo8K6BJooMeyH8imNzaa4jJtoS8a4jR8LaLjPLvYTI2AUIwmbne9oHp4l49SpH62SN93Uprg2GMOM7MsXli5MLtfc?authuser=1&fife=s16383" height="200" width="auto" />]]></description>
+      <styleUrl>#icon-1453-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGRgw1cAxzSxjHcNqZGJuidRsl2y08nYqrEdPnrKaq2TGuQBu-PeUXpFpAKjX3_V8inXOQ17YyPcGEHMHTmvUzuZqFDeReQ_2aLZKpUOyxY7wEz5unLBg8YtZsDn4XmOn1nUgrazFcVFU6qjOA_OvtwIE5ypyferR9EJZJsTeKj0TXUo65Fs8brIM9wdnupwAR_a4uVshzPLLoyj5_xRqZ_SPq0NZxmWmiwmQ3Dy6uXjLa5BwL6u0tNacA0?authuser=1&fife=s16383 https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGRkcI2KiHNWUr9W6pQfYSDvxHogYkNemTndRyCwIX84U54-EE53DG6lumQfcflr3I5TT7FxLsmEu2-hkw1jvTVCuWEV1WnuVbj_ZhRUXu_62YEn-a1b06Pcm7LYXQnrCbIudplHzBUeT5Sx8grKBkFLJ-CkDGshwhatPcV-x9PpFBpbkAJd0gfjMYgM9AmeWv_Ej-8ASPlCzgavQpwnMvk94VgBqJe8YmAQc6Ru02D24CzXZHxORPZJ0y8?authuser=1&fife=s16383 https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGQJf83AkjrRIEpaUknIU7LHn1Aqzn8iSraPly6ZrAnpBHe2qj5w134-zpu27tiPBJrxhVdPOKH8eFI4Sp1kXbFrTW-RazXiMmR0QTnG1iaVXjLwoNB2lCCtGJnIy_ZJODiXcsTcVh6wEH7ODEV4Ae2psxkTOrUPfFP6IFrBsSZQN7BkrQcibYW-Q_f5A8Xa9j5rauXdr3Mu35TACtei9MmBNAlnNArRiLJo-MEXjrtcBT1ZaVHHeR9n2-c?authuser=1&fife=s16383 https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGT-TbOswiwe7c2YdfQ8B_iRmbi8oWSh_oGl0dH8HITE9vx_Pv8Jqdm2ntsEFTu1gGJjLPZp34rvcR8_iyggH4OEtFS28UeHQKASKbpqBp1G34BGky2BADvCb-xK6drE0yPnYMxAQ0S0fYBA8UFuMzR7BVjLkZg64Xuo8K6BJooMeyH8imNzaa4jJtoS8a4jR8LaLjPLvYTI2AUIwmbne9oHp4l49SpH62SN93Uprg2GMOM7MsXli5MLtfc?authuser=1&fife=s16383]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          88.352484,22.568612,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Camac St PSS (SND) (Inside Kankaria Estate)</name>
+      <description>22.5461375, 88.3534531</description>
+      <styleUrl>#icon-1453-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          88.353453,22.546138,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Chowringhee Road PSS 1
+(SIEMENS)
+(Inside "The 42" Apartment)]]></name>
+      <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGScmbiGyGrwEpn2QsbLDsb5dVwjH-6Qz_InS4PE1mtbrEoomkK8ZqwxyewzWgex9BoOHzvm20ROvBVfDVnlA0DzOz-tig2AhDyXQLAtctl8RNoEQYgQmr13BjX76pCZ1Lz5wc0tTFRK6vIA5Vh9oqOOqoWxrDLzvrMbwreMrY1Cx-sYRdKQtzqQrk3TQqveFHCqB0rUor21V0Kx3hhEqLGbBwJENm6GXIDJhin9tOuyPalnhmUUeomm410?authuser=1&fife=s16383" height="200" width="auto" /><br><br>22.5482625, 88.3500469]]></description>
+      <styleUrl>#icon-1453-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGScmbiGyGrwEpn2QsbLDsb5dVwjH-6Qz_InS4PE1mtbrEoomkK8ZqwxyewzWgex9BoOHzvm20ROvBVfDVnlA0DzOz-tig2AhDyXQLAtctl8RNoEQYgQmr13BjX76pCZ1Lz5wc0tTFRK6vIA5Vh9oqOOqoWxrDLzvrMbwreMrY1Cx-sYRdKQtzqQrk3TQqveFHCqB0rUor21V0Kx3hhEqLGbBwJENm6GXIDJhin9tOuyPalnhmUUeomm410?authuser=1&fife=s16383]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          88.350047,22.548262,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Elliot Road PSS (SND) (Inside Arrjavv Square, 95, Elliot Rd, Madhusudhan Market, Taltala, Kol - 14)</name>
+      <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AN6v0v7QN88apOeh2yYsw695C0zYyzYnJCZdGS7Sj784So6jnn7uHm4VS6Uo6YUP_-zMHaMzrcA_eDyr5TeGourEO4-zX4CWMnOR7YegV3NbEvZEwOV3eDPMPNA4WqIE26KIuFQpiISdJo8Z9yUSbpQK_24nUxV2z7Lay835nNUe5okefWrNF4WyqJcJZhdn5L9xAL-7VTv8xAaUY3oK2g7O8IOTXl7OB6WegrT9ZvfWAWr1bW75MUCMU4z8KZ59K4nIXaRWo-O_oTrWT5IvaDZy7WkE7OyQ1vJUZetzTCsWiyTnzUllaXE0K3zIfc_ijMbq4xzpZUFKIdywJWVCIs6qxHoPh4Vgbnp4g9sTxMm-3rxgMeCZHBk70p_Of66X6bSwG0InE35eXCItjfCocsiD6UFl8oTaRVRSAlBFVIr6eYGRTmJ5A4OZ_hP2wTKNsTQatWvSbHtgaiKM5pPQS-ztsR6ZBZb4w1xmvRJ_ZeRK_GewWXf_Fa4KuzseV3tEFKRMMqU6sXpxtJR48N6e_bzjkjcTOGMs3bzwUA0NzTieek13lCNIzkyaq6-ElCbZFzeoZg4H72YmzGxLCfq_E-ABvxoPb4IeqBF8OuliOaWbgpxWJ35_DlcA_30s_SFPICjdS_EVyuh0KMP156CqnJwbj6Is1L_JNL4eNvHeJyfSwg5UxSEDgVsXi8TVsYLwioYZ0r0cEOq4DqSRKuwdbaMoOVBcU_rbfQXPGcA" height="200" width="auto" /><br><br>22.5506625, 88.3622344<br><br><img src="https://lh3.googleusercontent.com/umsh/AN6v0v4Zrc-pHTKlDi14BKM2oxKswIeKEaXc4dzeZqFxLxsauDrmuLC_8ly1TdvORLNDe8nw9ab4WbT2S-AbMB_K0mdymv0wstNFZ1f7zp-K8AOmUV6-mOX0O-GH450gPgNKcYGqnIxYXOAlFm6jtNbDqBzTtZY6eIbdHxew-fF3FKb1-SMrQMqsEK9b6bkdCkeQKMDFeikAsVdSpXcQXigiYwg2caXOd8qtv6AmteqCaedt4p1-oz4Ya4-9GnmZ65Y7fH5gjL1MuKuMyIAdTc7cMJCwjrmBzSpnd5fcMOiRY_JNj94zNzGUpOkDu8dWfNIEQEUpkNgT8wVveUdohouqQ86aAKnYrN88WhYg-fJ1oK-FGBCQ5Dm9VgA9lI7uctUaw_gmrUXUdT4MFN5OtRpaPO0ypilC-roMgxgCoZiGB9Cf77v6hl0KnCKg0GboYhmvjNZKzv3KxYcROcR95qKgRjyCvA7RC2-qq45i34P25wORZAARkUdr3z0zPCJdvKymXeVlLqF2uHJrR2uDEGL4fjvMbf8jzNPXnKAKHqPoGbpyVT8RxGeLUM_oXA4OVG28t45P_VKkPk7YWYFKuCdurtL1ptC8IyXl4CSgNcII4OSbMsmjUgYSc0zVnfAoFgZ44O_Zyt0XWHNt9cXwXxEQqhuQBbYUBue3NQg-oift-Wo3UVDig8NmW5m7g1QlXKkWG9Wg9gy_VXGzAEiaUqahXD2CKpqr0kTjtk4" height="200" width="auto" />]]></description>
+      <styleUrl>#icon-1453-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>https://lh3.googleusercontent.com/umsh/AN6v0v7QN88apOeh2yYsw695C0zYyzYnJCZdGS7Sj784So6jnn7uHm4VS6Uo6YUP_-zMHaMzrcA_eDyr5TeGourEO4-zX4CWMnOR7YegV3NbEvZEwOV3eDPMPNA4WqIE26KIuFQpiISdJo8Z9yUSbpQK_24nUxV2z7Lay835nNUe5okefWrNF4WyqJcJZhdn5L9xAL-7VTv8xAaUY3oK2g7O8IOTXl7OB6WegrT9ZvfWAWr1bW75MUCMU4z8KZ59K4nIXaRWo-O_oTrWT5IvaDZy7WkE7OyQ1vJUZetzTCsWiyTnzUllaXE0K3zIfc_ijMbq4xzpZUFKIdywJWVCIs6qxHoPh4Vgbnp4g9sTxMm-3rxgMeCZHBk70p_Of66X6bSwG0InE35eXCItjfCocsiD6UFl8oTaRVRSAlBFVIr6eYGRTmJ5A4OZ_hP2wTKNsTQatWvSbHtgaiKM5pPQS-ztsR6ZBZb4w1xmvRJ_ZeRK_GewWXf_Fa4KuzseV3tEFKRMMqU6sXpxtJR48N6e_bzjkjcTOGMs3bzwUA0NzTieek13lCNIzkyaq6-ElCbZFzeoZg4H72YmzGxLCfq_E-ABvxoPb4IeqBF8OuliOaWbgpxWJ35_DlcA_30s_SFPICjdS_EVyuh0KMP156CqnJwbj6Is1L_JNL4eNvHeJyfSwg5UxSEDgVsXi8TVsYLwioYZ0r0cEOq4DqSRKuwdbaMoOVBcU_rbfQXPGcA https://lh3.googleusercontent.com/umsh/AN6v0v4Zrc-pHTKlDi14BKM2oxKswIeKEaXc4dzeZqFxLxsauDrmuLC_8ly1TdvORLNDe8nw9ab4WbT2S-AbMB_K0mdymv0wstNFZ1f7zp-K8AOmUV6-mOX0O-GH450gPgNKcYGqnIxYXOAlFm6jtNbDqBzTtZY6eIbdHxew-fF3FKb1-SMrQMqsEK9b6bkdCkeQKMDFeikAsVdSpXcQXigiYwg2caXOd8qtv6AmteqCaedt4p1-oz4Ya4-9GnmZ65Y7fH5gjL1MuKuMyIAdTc7cMJCwjrmBzSpnd5fcMOiRY_JNj94zNzGUpOkDu8dWfNIEQEUpkNgT8wVveUdohouqQ86aAKnYrN88WhYg-fJ1oK-FGBCQ5Dm9VgA9lI7uctUaw_gmrUXUdT4MFN5OtRpaPO0ypilC-roMgxgCoZiGB9Cf77v6hl0KnCKg0GboYhmvjNZKzv3KxYcROcR95qKgRjyCvA7RC2-qq45i34P25wORZAARkUdr3z0zPCJdvKymXeVlLqF2uHJrR2uDEGL4fjvMbf8jzNPXnKAKHqPoGbpyVT8RxGeLUM_oXA4OVG28t45P_VKkPk7YWYFKuCdurtL1ptC8IyXl4CSgNcII4OSbMsmjUgYSc0zVnfAoFgZ44O_Zyt0XWHNt9cXwXxEQqhuQBbYUBue3NQg-oift-Wo3UVDig8NmW5m7g1QlXKkWG9Wg9gy_VXGzAEiaUqahXD2CKpqr0kTjtk4</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          88.362234,22.550662,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Emami City PSS No 1 (AKS)</name>
+      <description>22.6279625, 88.4182969</description>
+      <styleUrl>#icon-1453-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          88.418297,22.627962,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Emami City PSS No 10 (SIE)</name>
+      <description>22.6294125, 88.4183906</description>
+      <styleUrl>#icon-1453-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          88.418391,22.629412,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Emami City PSS No 11 (AKS)</name>
+      <description>22.6294625, 88.4183906</description>
+      <styleUrl>#icon-1453-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          88.418391,22.629462,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Emami City PSS No 2 (SIE)</name>
+      <description>22.6279375, 88.4182969</description>
+      <styleUrl>#icon-1453-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          88.418297,22.627938,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Emami City PSS No 3 (SIE)</name>
+      <description>22.6279125, 88.4172656</description>
+      <styleUrl>#icon-1453-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          88.417266,22.627912,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Emami City PSS No 4 (SIE)</name>
+      <description>22.6279125, 88.4172031</description>
+      <styleUrl>#icon-1453-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          88.417203,22.627912,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Emami City PSS No 5 (SIE)</name>
+      <description>22.6286625, 88.4159844</description>
+      <styleUrl>#icon-1453-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          88.415984,22.628662,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Emami City PSS No 6 (AKS)</name>
+      <description>22.6295125, 88.4162344</description>
+      <styleUrl>#icon-1453-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          88.416234,22.629512,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Emami City PSS No 7 (AKS)</name>
+      <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AN6v0v7KH1yw-hNFjhjhznQkAvpq76qP3FJwqSmVB7AI5sjdAU3_NHLw3oWCne7rbyjN2vOuMNSwp5YEykTra57vvu0HU1VIHisjCJqGoHSH8BhdXPvmPDUWDNvW0QeIQumIAlCRmoVHZULZK4HdEvmrRtTsQdvqGniu1cfAmpzn9wVnsSRTexCrKWbs8ThKU8wu2XRhlwXbt39fYQpRY9T5iIRmngwpmvUbCqlEJ71Srg-VL087sY-jreWeuUJJHSEQgRj2g9z_k9O2hcTJG9EF6sb-r6MIrxXEkA5BmFCkndQvT0hpu7_riNx389QuC-Ry6-GcNFmh61nBR52tH30Lebe6lGjKqUdYc3xnLZ0TR45T_QMIQrFfOKFMUy8PvogdYI-HW77OWLRRZRpTEJpDXFcaiqAgfDk_EjNbSQ8DnGMoYSRjhzK4unS5GAyWVkhN4hRKnLjhJnfF451qEYBlh4U0MG-9EWfsEPOxmrXAMfLLQq23Mzv0VlCulFZQJbhQVcs4CjnRM439B0geebE2sJmmLO5tqCXV7f6pdZLMpE-2fNJcXVEBQwegDpaunQN44oW30t-S24OADMGpVqDnNAXe7sbsnVk7oVOTI3NF3LJ8xoiZQsNZTtOv4z8E4ydlQy-N5GovUxPrxg8Rp2V5AdOYCCC0MXZp8r3MZ_3sztMzJbopZzkMmRkhevcPh4cbV-_4WV-1RY-n1aNG7TmUsOtUXXWZluUXwg" height="200" width="auto" /><br><br>22.6295875, 88.4162559<br><br><img src="https://lh3.googleusercontent.com/umsh/AN6v0v5rTzX8kWT65T-grU2v_azpj9mnPyJtz84PYu6AAj0DLU5i6WHuLtwJLJSAOANFJFsEEMNJdKnan587XSwwkS_cMKKt_uba4Hllwxt9dL3mQ4YL4hE1ebK66BluKSBzkJL_D9gisXUMjyBFHs0JY-qUEoFkt6RPoY5wpCX61Nd91N2rf7kZEqiVtDDps4CswNjcN8__5sLa86SzyJoQQjliZc-cvp1XxLbGKwPotkcfZFFH2p4jyYYPUJvfZzlvDUMtklKdNvKwBfSRpIPNENG8DILSZCiSoCiQ2giQ2YonT0Qex34hB-TXdx20SpPJ1kmdu8ctUjqHfvz2lLxGds6CsKqjgQVT7CrToq07wInNQsNeH-9c7_yS7Q5mMeRY_tfzXA03voxTJmzfkkAU-ZrLZQBX7lUipXWBWkRJJRlYXGdo2aH9Y1Of5mqvs1IAyMhkYa9OE7P8U6p3-DMx0mudWLoXn7N0lThc05-GvOJB8wHIrnqJ0fNQcdJXwQ-vOBQqtrhk5lIlBEN0YLAWuI2ngXqqH5vlImsAHICmVqxX1jh1xMh_2rk9khpis9DIxOp00Potr1uV-UDPdkLqlG1bAfP4GvFFXXBpg-W0gj0LmI1dDjzA8JR0k91nDuiioqA8iGOm8OpvreTbvjQ3jtpSny7fUgiXXm-JBE01KsTWFSzOCp7OevUo2tzn5k3rzlf-5k2zGjbe4oRDqMXRif7OhtxGaP4vz0I" height="200" width="auto" /><br><br><img src="https://lh3.googleusercontent.com/umsh/AN6v0v5GxqmIzjckXCl0jzmDfKaf_pg8OdYVuxs3ntTkinJMHZOhmAn5GLOO7m1U05MjRSVBBlvcR7UTwKFXT_8At7Y0hiYTxf91qzj-U2HLj05EBbEJ01sa5NO7CEyCjaLjWJEk5l0LZ4jTB58pueAcD5Mzo8J18KVQ_EjAGTVIHLFU3UI1GmdypFIawskHa2Y3hTeAVmK16_nJVmeGbsKKMxehbwS1_7JsurQpuaBT9PBLVevm0ZVF6MUlnSgMq0GbTn3Tkojm-WwWzcBixL2j0SYhnKWzY6nG-qh4b-pZyow6_dMCmiBj6We6RiGsrk7mJMeYlDN2vJXV0kjgoyZERqHLKfZ5Zs-wlncXRjj-IGyPQPnjGz32ldpFKhAhsCP4MRt7eVYXGcAvsgStk1LT3LXp81PsVFr3qew5bbYJJyqiIz_6aND2f7Pel27rFYJ_XQXEGV1j9dQlY6iIrD7rvmg_9fCHDeH7o4Ro3haruk0YC7teU1Ipzu3F8X8Yx3wAdcntO1aA4MP4XpLG6QGFz3ERi5cX9JDL_C_k4GkVLdLgZtozzFKuKJifCCvjuBMG4GXZTLHGZCq75IYyloufTcUyDNBN-T6gaIZnQpSn2Y5x4-6lvnzZNSLEqzsEBp8NblYbrUMpCs_cy00siasYaZ5u5OZ_mgqsm1bF7nPcCmc0d6TpFSixWP9NkDk9df1doCf3SfU189WZug3EbZjQaBorJYCaE7L0KCE" height="200" width="auto" />]]></description>
+      <styleUrl>#icon-1453-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>https://lh3.googleusercontent.com/umsh/AN6v0v7KH1yw-hNFjhjhznQkAvpq76qP3FJwqSmVB7AI5sjdAU3_NHLw3oWCne7rbyjN2vOuMNSwp5YEykTra57vvu0HU1VIHisjCJqGoHSH8BhdXPvmPDUWDNvW0QeIQumIAlCRmoVHZULZK4HdEvmrRtTsQdvqGniu1cfAmpzn9wVnsSRTexCrKWbs8ThKU8wu2XRhlwXbt39fYQpRY9T5iIRmngwpmvUbCqlEJ71Srg-VL087sY-jreWeuUJJHSEQgRj2g9z_k9O2hcTJG9EF6sb-r6MIrxXEkA5BmFCkndQvT0hpu7_riNx389QuC-Ry6-GcNFmh61nBR52tH30Lebe6lGjKqUdYc3xnLZ0TR45T_QMIQrFfOKFMUy8PvogdYI-HW77OWLRRZRpTEJpDXFcaiqAgfDk_EjNbSQ8DnGMoYSRjhzK4unS5GAyWVkhN4hRKnLjhJnfF451qEYBlh4U0MG-9EWfsEPOxmrXAMfLLQq23Mzv0VlCulFZQJbhQVcs4CjnRM439B0geebE2sJmmLO5tqCXV7f6pdZLMpE-2fNJcXVEBQwegDpaunQN44oW30t-S24OADMGpVqDnNAXe7sbsnVk7oVOTI3NF3LJ8xoiZQsNZTtOv4z8E4ydlQy-N5GovUxPrxg8Rp2V5AdOYCCC0MXZp8r3MZ_3sztMzJbopZzkMmRkhevcPh4cbV-_4WV-1RY-n1aNG7TmUsOtUXXWZluUXwg https://lh3.googleusercontent.com/umsh/AN6v0v5rTzX8kWT65T-grU2v_azpj9mnPyJtz84PYu6AAj0DLU5i6WHuLtwJLJSAOANFJFsEEMNJdKnan587XSwwkS_cMKKt_uba4Hllwxt9dL3mQ4YL4hE1ebK66BluKSBzkJL_D9gisXUMjyBFHs0JY-qUEoFkt6RPoY5wpCX61Nd91N2rf7kZEqiVtDDps4CswNjcN8__5sLa86SzyJoQQjliZc-cvp1XxLbGKwPotkcfZFFH2p4jyYYPUJvfZzlvDUMtklKdNvKwBfSRpIPNENG8DILSZCiSoCiQ2giQ2YonT0Qex34hB-TXdx20SpPJ1kmdu8ctUjqHfvz2lLxGds6CsKqjgQVT7CrToq07wInNQsNeH-9c7_yS7Q5mMeRY_tfzXA03voxTJmzfkkAU-ZrLZQBX7lUipXWBWkRJJRlYXGdo2aH9Y1Of5mqvs1IAyMhkYa9OE7P8U6p3-DMx0mudWLoXn7N0lThc05-GvOJB8wHIrnqJ0fNQcdJXwQ-vOBQqtrhk5lIlBEN0YLAWuI2ngXqqH5vlImsAHICmVqxX1jh1xMh_2rk9khpis9DIxOp00Potr1uV-UDPdkLqlG1bAfP4GvFFXXBpg-W0gj0LmI1dDjzA8JR0k91nDuiioqA8iGOm8OpvreTbvjQ3jtpSny7fUgiXXm-JBE01KsTWFSzOCp7OevUo2tzn5k3rzlf-5k2zGjbe4oRDqMXRif7OhtxGaP4vz0I https://lh3.googleusercontent.com/umsh/AN6v0v5GxqmIzjckXCl0jzmDfKaf_pg8OdYVuxs3ntTkinJMHZOhmAn5GLOO7m1U05MjRSVBBlvcR7UTwKFXT_8At7Y0hiYTxf91qzj-U2HLj05EBbEJ01sa5NO7CEyCjaLjWJEk5l0LZ4jTB58pueAcD5Mzo8J18KVQ_EjAGTVIHLFU3UI1GmdypFIawskHa2Y3hTeAVmK16_nJVmeGbsKKMxehbwS1_7JsurQpuaBT9PBLVevm0ZVF6MUlnSgMq0GbTn3Tkojm-WwWzcBixL2j0SYhnKWzY6nG-qh4b-pZyow6_dMCmiBj6We6RiGsrk7mJMeYlDN2vJXV0kjgoyZERqHLKfZ5Zs-wlncXRjj-IGyPQPnjGz32ldpFKhAhsCP4MRt7eVYXGcAvsgStk1LT3LXp81PsVFr3qew5bbYJJyqiIz_6aND2f7Pel27rFYJ_XQXEGV1j9dQlY6iIrD7rvmg_9fCHDeH7o4Ro3haruk0YC7teU1Ipzu3F8X8Yx3wAdcntO1aA4MP4XpLG6QGFz3ERi5cX9JDL_C_k4GkVLdLgZtozzFKuKJifCCvjuBMG4GXZTLHGZCq75IYyloufTcUyDNBN-T6gaIZnQpSn2Y5x4-6lvnzZNSLEqzsEBp8NblYbrUMpCs_cy00siasYaZ5u5OZ_mgqsm1bF7nPcCmc0d6TpFSixWP9NkDk9df1doCf3SfU189WZug3EbZjQaBorJYCaE7L0KCE</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          88.416256,22.629588,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Emami City PSS No 8 (SIE)</name>
+      <description>22.6288875, 88.4168594</description>
+      <styleUrl>#icon-1453-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          88.416859,22.628888,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Foreshore Rd PSS (Areva) ("FORSHORE" In DMS) (Inside Residency)]]></name>
+      <description>22.5694125, 88.3301406</description>
+      <styleUrl>#icon-1453-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          88.330141,22.569412,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Kanchantala PSS (ABB)</name>
+      <description>22.5471875, 88.2548906</description>
+      <styleUrl>#icon-1453-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          88.254891,22.547188,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Krishnapur PSS 1 (Areva) (Inside NATURAL CITY, 43, Shyam Nagar Rd, Rodkal, Satgachi, Dum Dum, Kol 55)</name>
+      <description>22.6127625, 88.4167656</description>
+      <styleUrl>#icon-1453-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          88.416766,22.612762,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Krishnapur PSS 2 (SIEMENS) (Inside NATURAL CITY, 43, Shyam Nagar Rd, Rodkal, Satgachi, Dum Dum, Kol 55)</name>
+      <description>22.6135875, 88.4166719</description>
+      <styleUrl>#icon-1453-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          88.416672,22.613588,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Krishnapur PSS 3 (SIEMENS) (Inside NATURAL CITY, 43, Shyam Nagar Rd, Rodkal, Satgachi, Dum Dum, Kol 55)</name>
+      <description>22.613817, 88.4172506</description>
+      <styleUrl>#icon-1453-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          88.417251,22.613817,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sahapore PSS (ABB) (Inside Orbit Narayani)</name>
+      <description>22.5126375, 88.3296094</description>
+      <styleUrl>#icon-1453-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          88.329609,22.512638,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Satyen Bose Rd PSS (SIEMENS)</name>
+      <description>22.5644625, 88.2565156</description>
+      <styleUrl>#icon-1453-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          88.256516,22.564462,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Shibpore PSS 1(AKS)
+(Inside New Howrah (S) DS
+inside Ideal Grand Complex)
+</name>
+      <description>22.5659375, 88.3239219</description>
+      <styleUrl>#icon-1453-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          88.323922,22.565938,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Shibpore PSS 2 (ABB)
+(Inside New Howrah (S) DS
+inside Ideal Grand Complex)
+</name>
+      <description>22.5659625, 88.3239531</description>
+      <styleUrl>#icon-1453-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          88.323953,22.565962,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sodepur Godrej Prakrity PSS 1 (SND)
+(Sodepore Godrej Prakrity PSS 1)</name>
+      <description>22.7081625, 88.3770469</description>
+      <styleUrl>#icon-1453-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          88.377047,22.708162,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sodepur Godrej Prakrity PSS 2 (SND)
+(Sodepore Godrej Prakrity PSS 2)</name>
+      <description>22.7076625, 88.3779219</description>
+      <styleUrl>#icon-1453-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          88.377922,22.707662,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sodepur Godrej Prakrity PSS 3 (SND)
+(Sodepore Godrej Prakrity PSS 3)</name>
+      <description>22.7076375, 88.3780156</description>
+      <styleUrl>#icon-1453-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          88.378016,22.707638,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sodepur Godrej Prakrity PSS 4 (ABB)
+(Sodepore Godrej Prakrity PSS 4)</name>
+      <description>22.7088875, 88.3784844</description>
+      <styleUrl>#icon-1453-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          88.378484,22.708888,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sodepur Godrej Prakrity PSS 5 (ABB)
+(Sodepore Godrej Prakrity PSS 5)</name>
+      <description>22.7088875, 88.3785469</description>
+      <styleUrl>#icon-1453-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          88.378547,22.708888,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sodepore Godrej Prakrity PSS 6 (AKS)</name>
+      <description>22.7097125, 88.3785469</description>
+      <styleUrl>#icon-1453-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          88.378547,22.709712,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sodepur Godrej Prakrity PSS 7 (AKS)
+(Sodepore Godrej Prakrity PSS 6)</name>
+      <description>22.7090625, 88.3795781</description>
+      <styleUrl>#icon-1453-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          88.379578,22.709062,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sodepur Godrej Prakrity PSS 8 (ABB)
+(Sodepore Godrej Prakrity PSS 8)</name>
+      <description>22.7069125, 88.3797344</description>
+      <styleUrl>#icon-1453-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          88.379734,22.706912,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sodepur Godrej Prakrity PSS 9 (ABB)
+(Sodepore Godrej Prakrity PSS 9)</name>
+      <description>22.7068875, 88.3797656</description>
+      <styleUrl>#icon-1453-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          88.379766,22.706888,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ballygunge Circular Rd PSS
+(Inside The 60, Sri Avani Housing Complex)</name>
+      <description>22.52878, 88.35733</description>
+      <styleUrl>#icon-1453-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          88.3573332,22.5287879,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Thakurpukur Ideal Regency PSS 1
+(SIE)</name>
+      <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGT_ru3W1mP26HxKgmokrmVhwu5Z508H6DN6WjpXMUyVBxepz6_PSyC7NQg-8k0lEYYRbKX8qTNCKLACaAuovJMDKVO2jfyBqu10WqsWf4PFOkvrgiAqNATPnqW1pYTXechtUDl4gx_RrrJr2-vc8Nd8L3jqDN5Yru6_Gqk7qMU-kqd-emg7XTDMjK_lTPyDiT-yX06ynz9WngwBUb9CKtzijxiKNEC9lKpozWGd9ZavHShpAD_27FzZWq0?authuser=1&fife=s16383" height="200" width="auto" /><br><br>22.4619375, 88.3063906<br><br><img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGTHYgYKqJHxitQ9lNUdckLGqGAj2tpPwiQeiwEGpDHtoChwggrPnwFRYHk-yzJGXkzhmpK_x0UkvfjH78MVYh50izKFVhGlzXtrAboQhGp-dink_sAzHJXzjVi2qEdyBQ3FcXoUWmlqLIAa8qiZhevKPnjKk87Cl7vlPhKO-DD9VahHLVx3yMnM2jb7PTvICHujv1TVNjkbFrFxQ6KRO-ZGggqy8HNQGy-cJ6F8q7Uh_EH_de5lFG7x_4o?authuser=1&fife=s16383" height="200" width="auto" /><br><br><img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGTFyEBxh8-3m6ng_PO6zeCNhZ-y4HJfJxBkR4rdsFWHNYFy1F4R4d2t4hjHlMEM8Mcn_NlHQQUXNB8ZDLV5nDR8HoNRgCpeWuDBQYEOTSf_UPmsOf0LsYkC9OPXm_ZCBg5PCRCj3BjPS5n4lp0WSgCNxMk9vliZsv7q9DkVD7VNxZdu8RjdZTFi7cSjj0tslMnOq841j9zEp0vlJS01YEmBKBlyF2GxrAGt0ddrNbZnwPPDpe74_WpKVf0?authuser=1&fife=s16383" height="200" width="auto" /><br><br><img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGTsi0Ncy41F0QvEDrwKSB-GXxLM5AGU18Yc5YuVKSQq0kWIjs4W-olJpFhFdtAVa4aEnKZFiScbSXZo_C0C4YO6uGpLc5XPp-9vhC_alAeCMFuChSCcKXW5ywdGINJH5UhSiHzjVIDC7cDeM9Ug4LHuEE3Naaes2RjRPNYF3c6kfQsDrF73a0VF5EOXuHTcj4-CpJlwdLZuJeVD2uDejA7jMyxwuHcWVJlu5Zbb9XyBc5NqBeL84lPWy-s?authuser=1&fife=s16383" height="200" width="auto" />]]></description>
+      <styleUrl>#icon-1453-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGT_ru3W1mP26HxKgmokrmVhwu5Z508H6DN6WjpXMUyVBxepz6_PSyC7NQg-8k0lEYYRbKX8qTNCKLACaAuovJMDKVO2jfyBqu10WqsWf4PFOkvrgiAqNATPnqW1pYTXechtUDl4gx_RrrJr2-vc8Nd8L3jqDN5Yru6_Gqk7qMU-kqd-emg7XTDMjK_lTPyDiT-yX06ynz9WngwBUb9CKtzijxiKNEC9lKpozWGd9ZavHShpAD_27FzZWq0?authuser=1&fife=s16383 https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGTHYgYKqJHxitQ9lNUdckLGqGAj2tpPwiQeiwEGpDHtoChwggrPnwFRYHk-yzJGXkzhmpK_x0UkvfjH78MVYh50izKFVhGlzXtrAboQhGp-dink_sAzHJXzjVi2qEdyBQ3FcXoUWmlqLIAa8qiZhevKPnjKk87Cl7vlPhKO-DD9VahHLVx3yMnM2jb7PTvICHujv1TVNjkbFrFxQ6KRO-ZGggqy8HNQGy-cJ6F8q7Uh_EH_de5lFG7x_4o?authuser=1&fife=s16383 https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGTFyEBxh8-3m6ng_PO6zeCNhZ-y4HJfJxBkR4rdsFWHNYFy1F4R4d2t4hjHlMEM8Mcn_NlHQQUXNB8ZDLV5nDR8HoNRgCpeWuDBQYEOTSf_UPmsOf0LsYkC9OPXm_ZCBg5PCRCj3BjPS5n4lp0WSgCNxMk9vliZsv7q9DkVD7VNxZdu8RjdZTFi7cSjj0tslMnOq841j9zEp0vlJS01YEmBKBlyF2GxrAGt0ddrNbZnwPPDpe74_WpKVf0?authuser=1&fife=s16383 https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGTsi0Ncy41F0QvEDrwKSB-GXxLM5AGU18Yc5YuVKSQq0kWIjs4W-olJpFhFdtAVa4aEnKZFiScbSXZo_C0C4YO6uGpLc5XPp-9vhC_alAeCMFuChSCcKXW5ywdGINJH5UhSiHzjVIDC7cDeM9Ug4LHuEE3Naaes2RjRPNYF3c6kfQsDrF73a0VF5EOXuHTcj4-CpJlwdLZuJeVD2uDejA7jMyxwuHcWVJlu5Zbb9XyBc5NqBeL84lPWy-s?authuser=1&fife=s16383]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          88.306391,22.461938,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Thakurpukur Ideal Regency PSS 2
+(SND)</name>
+      <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGTId6gHByWMNrT3t6eKOwNCdOjKYnVyj9Jujsib0v848qKXT4WSpQon3RRlNKnqlrXjPPGAybzGfXlxWSBqs_EhJkr5_gxNRnaMFqm3NTG7lQdy6BJ1cND9ZO108VJYWhqhdvKsgDc_dO6m01dGpmG5oG1NrTrDLizAK0jgqJOsWVU84JvspZ6RbCp2uoGafwYCWwapmhdNn7ysbmxwYzlMgVzkaWQGtPFSUC2un8fxKjgkJYfENHI-HZk?authuser=1&fife=s16383" height="200" width="auto" /><br><br>22.4620125, 88.3063906<br><br><img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGSDIKYLIJkvLjR42Ml3A7nKMKptUMjYPN1nOxoRqt8F7qSFx0cQ5xWr5ri0pt-KshsZ3GsGAz3KOqgarAsli3Ujoy4iS0pcocnHo7gZSbM4D5i-_qpNL8jywCjxoFWJjmZbogEQ-FnWLbEJ5VGCQ-0MlsyyWFu2LCpI1fhPfzVYqv89JbsyCXkgG1kFoCeYvXEen5TAgtbx1RXuTBqrCj9NKgbhndMT2xUvqw6eAURkMQE9Hyos6vt5AQk?authuser=1&fife=s16383" height="200" width="auto" /><br><br><img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGRV6mc4Tgkiz8i8xzSqBmWjmvbm1o2wjxjbmneBVyei3caacYbnigeGLCcCwh6c2B0cCc7ZS4cpGju3xY3RW985LO-9pezGj_cM5u5EWZAsh2Sp5MOOuQubOPx-uldEied00LLmnuj6n4HGEuSzgsrncVcRb2jiunf6O9z6QUDCvof58-rMOcuatKKYrtPdZHGQZBhDdnhdBcGpyi9unR-govVmqG38MUSEj0Q6ybt19X68pNGpfy0I_Iw?authuser=1&fife=s16383" height="200" width="auto" /><br><br><img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGQwabjgNCkCbj3mauqL4U0yl2HdVJ8hdAJKlpWP6xt_qJ3BCmTvhdNp9KoFqz8nwJoG22SJFY2lapIf-YmWfWkrtgL_SZaSacBS48RI2yOKHtd9xGKq1Ej4QO7BWqCnAE02MYT9xRgVRRExh7TKn6YGYEjtNh_T68rKonOjeADZOUVeZ66zGj4dOh9r7ff7qz7eK9nEQeCSX2jmuL5fxU0zt6AtTvFwzJr7eb4-TA2cZ5SebPehdOpbc08?authuser=1&fife=s16383" height="200" width="auto" />]]></description>
+      <styleUrl>#icon-1453-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGTId6gHByWMNrT3t6eKOwNCdOjKYnVyj9Jujsib0v848qKXT4WSpQon3RRlNKnqlrXjPPGAybzGfXlxWSBqs_EhJkr5_gxNRnaMFqm3NTG7lQdy6BJ1cND9ZO108VJYWhqhdvKsgDc_dO6m01dGpmG5oG1NrTrDLizAK0jgqJOsWVU84JvspZ6RbCp2uoGafwYCWwapmhdNn7ysbmxwYzlMgVzkaWQGtPFSUC2un8fxKjgkJYfENHI-HZk?authuser=1&fife=s16383 https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGSDIKYLIJkvLjR42Ml3A7nKMKptUMjYPN1nOxoRqt8F7qSFx0cQ5xWr5ri0pt-KshsZ3GsGAz3KOqgarAsli3Ujoy4iS0pcocnHo7gZSbM4D5i-_qpNL8jywCjxoFWJjmZbogEQ-FnWLbEJ5VGCQ-0MlsyyWFu2LCpI1fhPfzVYqv89JbsyCXkgG1kFoCeYvXEen5TAgtbx1RXuTBqrCj9NKgbhndMT2xUvqw6eAURkMQE9Hyos6vt5AQk?authuser=1&fife=s16383 https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGRV6mc4Tgkiz8i8xzSqBmWjmvbm1o2wjxjbmneBVyei3caacYbnigeGLCcCwh6c2B0cCc7ZS4cpGju3xY3RW985LO-9pezGj_cM5u5EWZAsh2Sp5MOOuQubOPx-uldEied00LLmnuj6n4HGEuSzgsrncVcRb2jiunf6O9z6QUDCvof58-rMOcuatKKYrtPdZHGQZBhDdnhdBcGpyi9unR-govVmqG38MUSEj0Q6ybt19X68pNGpfy0I_Iw?authuser=1&fife=s16383 https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGQwabjgNCkCbj3mauqL4U0yl2HdVJ8hdAJKlpWP6xt_qJ3BCmTvhdNp9KoFqz8nwJoG22SJFY2lapIf-YmWfWkrtgL_SZaSacBS48RI2yOKHtd9xGKq1Ej4QO7BWqCnAE02MYT9xRgVRRExh7TKn6YGYEjtNh_T68rKonOjeADZOUVeZ66zGj4dOh9r7ff7qz7eK9nEQeCSX2jmuL5fxU0zt6AtTvFwzJr7eb4-TA2cZ5SebPehdOpbc08?authuser=1&fife=s16383]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          88.306391,22.462012,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Thakurpukur Ideal Regency PSS 3
+(SIE)</name>
+      <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGTmxk9TN40NLN8q4BobWkcFiHKF_pksEBHO9lxsL9yQ8xvqpQ2fylhOwlvtcRtYWGHW9DfZuXFA3Z-QWOFedSlK6xpdFfa66tT6UnNxahXkXJQr_xmwOfTAVQmx_1puB8hIxXi_s_qdHGcL4FU3uaueipkGHdr8eFP154kEBrOztj74-uwfZzTeEFtd1XZmG9vqvsQSRIKK_1sw5X4SkDmIapSYujcmpyQZWiFaEeaKnoyXdEjMlgd_reY?authuser=1&fife=s16383" height="200" width="auto" /><br><br>22.4615375, 88.3062656<br><br><img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGRA24YSDNTKYO_sVm0SXO48kdNiXUAbYuvugrWN1JAQe0bwjxwq2jsYZ7u41oAsa6I6OoZnrFhhHPcREMbSFI0FEGU-9zj9gB9ABGfwQ484bne8dEs2pnPzZ1oGKBTJT0heoLUUJgBDsd_QQv8F-BLYbJ87yfENJpD4KUjbZT67BkIhKtxZSThIx3WammiK-3R02rkJw5lZOmdAEMysAb75d-jduUpc0d2uWnttCX7s7QpMSY3mwSWE8YE?authuser=1&fife=s16383" height="200" width="auto" />]]></description>
+      <styleUrl>#icon-1453-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGTmxk9TN40NLN8q4BobWkcFiHKF_pksEBHO9lxsL9yQ8xvqpQ2fylhOwlvtcRtYWGHW9DfZuXFA3Z-QWOFedSlK6xpdFfa66tT6UnNxahXkXJQr_xmwOfTAVQmx_1puB8hIxXi_s_qdHGcL4FU3uaueipkGHdr8eFP154kEBrOztj74-uwfZzTeEFtd1XZmG9vqvsQSRIKK_1sw5X4SkDmIapSYujcmpyQZWiFaEeaKnoyXdEjMlgd_reY?authuser=1&fife=s16383 https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGRA24YSDNTKYO_sVm0SXO48kdNiXUAbYuvugrWN1JAQe0bwjxwq2jsYZ7u41oAsa6I6OoZnrFhhHPcREMbSFI0FEGU-9zj9gB9ABGfwQ484bne8dEs2pnPzZ1oGKBTJT0heoLUUJgBDsd_QQv8F-BLYbJ87yfENJpD4KUjbZT67BkIhKtxZSThIx3WammiK-3R02rkJw5lZOmdAEMysAb75d-jduUpc0d2uWnttCX7s7QpMSY3mwSWE8YE?authuser=1&fife=s16383]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          88.306266,22.461538,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Thakurpukur Ideal Regency PSS 4
+(SIE)</name>
+      <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGTAQigmGtHfcvWOSKu7Sa7Z17j_lvaeBw067uWOb4ZS_k9t9Ap3Prk-mYd5RyRqoKwlI5BNAc4YQaLfORu9ZZ_id7UizfZBERkUGYKHQTDF-NHHHWbdU8-oWgKXn1PfF_bJR1ItLu46tAB0DH5t-hUzmEFC6S4iB0sfGA77N43dL016SoQmTbZgtAn4AgQWjCs8rGF6oK3yHY-nR8yoKW1oR7N9MGkJQilVR2fzZ-Oyg4HOasmo7bU1WDw?authuser=1&fife=s16383" height="200" width="auto" /><br><br>22.4614875, 88.3062656<br><br><img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGTTDFDB4u9ED5E5abIneTPRPSQVcOWdSxP3SEE1i6wInLMhZJDPVaPlbkepOWS5ZlU9MTvEJC5mZV7x9c5ZkoVf6USjFwMbvUU-Gx4foDRe6E4mmwD27gRxZXEkzKmclD43VAJBfVxeiq8IznA3QzO-6SbMn2aGsW29ucnDuV309gElRLgW8u7fTWsY1wfEEdL04BVcx7oSVpbT9l_pJ8wyX0AKnLimRWG9miBUigONzL4DzWLz1wf-aeM?authuser=1&fife=s16383" height="200" width="auto" /><br><br><img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGSvkAHXrSE-tY98aXWdTwaizK975P6W3NGkt61l0bva-uUvxVD3lkFi56uS0Sb-xOxbyKwEKDQYtOlDDmgTgTyWL3q1F2RqeHsDq2LxLj3RNnVfuJRHQoAOzkYwO9SPQGTGRhOC8OAGy4Hwv-p-ua14b0GdSg_ESJb6fujRiWwEe91ou-mzf9Cub6v4fHRYwTlDs59jyIMrW-6zBD2ZIAR18rLCon8_YkjmAuM2oP01ET6JpBOB89uAw-U?authuser=1&fife=s16383" height="200" width="auto" /><br><br><img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGTzieeRn2dNJ7P7GN2GFhW55gR0is9FzIF2pfpRNFy06YS700HYlS1zSJewcLjpIHlgytdl7nm-J9_EAVrXw20sGF_UYxHiqormkHyY9gPOoddCVISk3m_S8Qb7AZV41jOuxu-zH7jmyKuNjcI57P__4ARpk9DHgLm_uRz-cXvp97m-kf1e_TArViUBKpVbyltoFqqySHa8hH9U0TuwMTzwvb1mCNKhFq9NsAZB57E-nrRVbmx_xp5hJf8?authuser=1&fife=s16383" height="200" width="auto" />]]></description>
+      <styleUrl>#icon-1453-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGTAQigmGtHfcvWOSKu7Sa7Z17j_lvaeBw067uWOb4ZS_k9t9Ap3Prk-mYd5RyRqoKwlI5BNAc4YQaLfORu9ZZ_id7UizfZBERkUGYKHQTDF-NHHHWbdU8-oWgKXn1PfF_bJR1ItLu46tAB0DH5t-hUzmEFC6S4iB0sfGA77N43dL016SoQmTbZgtAn4AgQWjCs8rGF6oK3yHY-nR8yoKW1oR7N9MGkJQilVR2fzZ-Oyg4HOasmo7bU1WDw?authuser=1&fife=s16383 https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGTTDFDB4u9ED5E5abIneTPRPSQVcOWdSxP3SEE1i6wInLMhZJDPVaPlbkepOWS5ZlU9MTvEJC5mZV7x9c5ZkoVf6USjFwMbvUU-Gx4foDRe6E4mmwD27gRxZXEkzKmclD43VAJBfVxeiq8IznA3QzO-6SbMn2aGsW29ucnDuV309gElRLgW8u7fTWsY1wfEEdL04BVcx7oSVpbT9l_pJ8wyX0AKnLimRWG9miBUigONzL4DzWLz1wf-aeM?authuser=1&fife=s16383 https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGSvkAHXrSE-tY98aXWdTwaizK975P6W3NGkt61l0bva-uUvxVD3lkFi56uS0Sb-xOxbyKwEKDQYtOlDDmgTgTyWL3q1F2RqeHsDq2LxLj3RNnVfuJRHQoAOzkYwO9SPQGTGRhOC8OAGy4Hwv-p-ua14b0GdSg_ESJb6fujRiWwEe91ou-mzf9Cub6v4fHRYwTlDs59jyIMrW-6zBD2ZIAR18rLCon8_YkjmAuM2oP01ET6JpBOB89uAw-U?authuser=1&fife=s16383 https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGTzieeRn2dNJ7P7GN2GFhW55gR0is9FzIF2pfpRNFy06YS700HYlS1zSJewcLjpIHlgytdl7nm-J9_EAVrXw20sGF_UYxHiqormkHyY9gPOoddCVISk3m_S8Qb7AZV41jOuxu-zH7jmyKuNjcI57P__4ARpk9DHgLm_uRz-cXvp97m-kf1e_TArViUBKpVbyltoFqqySHa8hH9U0TuwMTzwvb1mCNKhFq9NsAZB57E-nrRVbmx_xp5hJf8?authuser=1&fife=s16383]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          88.306266,22.461488,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Thakurpukur Ideal Regency PSS 5
+(SND)</name>
+      <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGTZbKZn0kRpraM0DHpFyThMRzAEhGRbUHwZ7zsywW-Tal_T5ePySI3TeVe_T-Bh6Zqhb8COIWJbBUsxnP1WQ0KVzc4S_SBieRLp2irhwhhaJ7Mn7mvhCGB0IVFP2RRitZ-BTvSlXlMmyRxZub2OJZA3y-pWCK8361QDqdkoMuRx7uQhnt4APmnmqhz4mZjcMLLo1OO7vM7T3A-yCdNkNF44jZetG0XGFN_fQKb_UZP4qFp3gE0kFeTsUxc?authuser=1&fife=s16383" height="200" width="auto" /><br><br>22.4618625, 88.3057656<br><br><img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGQH91Tp0Pogj6Hcdw0wcJl7wOWbd5bWKQYUsUY4etkzwXzKP6JvsJUS-h4u22q3iHJeU2ZyAEMptSL4BV9V5OoI3kleY-8RuqRMg5hw6wW8Apm3crACYKzSOeguGRABSsEvC23K5BWt-FxRDktZh0aSCCwbmR9qjlrVLLmNNEPnNxzxUuDeTDaq5tJCUHzPmSOoVhMBgJCsytRmAIt2M2Nwr0lvgOjxG80epf9C9vjg8vaveZGn7fNhk84?authuser=1&fife=s16383" height="200" width="auto" />]]></description>
+      <styleUrl>#icon-1453-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGTZbKZn0kRpraM0DHpFyThMRzAEhGRbUHwZ7zsywW-Tal_T5ePySI3TeVe_T-Bh6Zqhb8COIWJbBUsxnP1WQ0KVzc4S_SBieRLp2irhwhhaJ7Mn7mvhCGB0IVFP2RRitZ-BTvSlXlMmyRxZub2OJZA3y-pWCK8361QDqdkoMuRx7uQhnt4APmnmqhz4mZjcMLLo1OO7vM7T3A-yCdNkNF44jZetG0XGFN_fQKb_UZP4qFp3gE0kFeTsUxc?authuser=1&fife=s16383 https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGQH91Tp0Pogj6Hcdw0wcJl7wOWbd5bWKQYUsUY4etkzwXzKP6JvsJUS-h4u22q3iHJeU2ZyAEMptSL4BV9V5OoI3kleY-8RuqRMg5hw6wW8Apm3crACYKzSOeguGRABSsEvC23K5BWt-FxRDktZh0aSCCwbmR9qjlrVLLmNNEPnNxzxUuDeTDaq5tJCUHzPmSOoVhMBgJCsytRmAIt2M2Nwr0lvgOjxG80epf9C9vjg8vaveZGn7fNhk84?authuser=1&fife=s16383]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          88.305766,22.461862,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Thakurpukur Ideal Regency PSS 6
+(SND)</name>
+      <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGQUbS8zCtTG8ykf8DtpipJoP9UGyYqJmlMwq0g-Jn80JsWywhFM8La4zpqWAy-xbYwhsWyXsMGasSHRQ74KJZHuM7T3II7d08-98fR0CHCF_BDfOXhG0X3rEQDcn5bifpCbsp00H4J5aV8imJBPVi8lqF4h8YmWVs9CF1XRApQW3AEFX2V07J9WhZp9mzUeH4DYLNwtWYUKeNNxcIMpPP2YxKbMd9K0Ri72XbMw-CjOI7Z2jcGxqvxM_r0?authuser=1&fife=s16383" height="200" width="auto" /><br><br>22.4622125, 88.3061406<br><br><img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGTdc8Jqn7vJrDpEH66DPJOdbrRX3PqtoNHS1gHCsjW5W_5K9cmOsgdweC_E8Igazct1GJnWqvs9w6RvplAZQid-Bm23P620lbVrALTHQ5mLE78FBWvTut3T_CLbNMFKy92MjtAi_VFyOyvsfo3FCZRHgze2JohvvdwIX_qOYW3uWakv7fObUblPFvMxjRLdKZ5j0_ucI7UTBxE-JRRCJTdv-fyIrt6F53gov0AbElG5xaW1agKsAZtERtg?authuser=1&fife=s16383" height="200" width="auto" />]]></description>
+      <styleUrl>#icon-1453-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGQUbS8zCtTG8ykf8DtpipJoP9UGyYqJmlMwq0g-Jn80JsWywhFM8La4zpqWAy-xbYwhsWyXsMGasSHRQ74KJZHuM7T3II7d08-98fR0CHCF_BDfOXhG0X3rEQDcn5bifpCbsp00H4J5aV8imJBPVi8lqF4h8YmWVs9CF1XRApQW3AEFX2V07J9WhZp9mzUeH4DYLNwtWYUKeNNxcIMpPP2YxKbMd9K0Ri72XbMw-CjOI7Z2jcGxqvxM_r0?authuser=1&fife=s16383 https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGTdc8Jqn7vJrDpEH66DPJOdbrRX3PqtoNHS1gHCsjW5W_5K9cmOsgdweC_E8Igazct1GJnWqvs9w6RvplAZQid-Bm23P620lbVrALTHQ5mLE78FBWvTut3T_CLbNMFKy92MjtAi_VFyOyvsfo3FCZRHgze2JohvvdwIX_qOYW3uWakv7fObUblPFvMxjRLdKZ5j0_ucI7UTBxE-JRRCJTdv-fyIrt6F53gov0AbElG5xaW1agKsAZtERtg?authuser=1&fife=s16383]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          88.306141,22.462212,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Pramatha Chowdhury Sarani PSS No1
+(Commissioned on 06/05/24)</name>
+      <description>22.5091115, 88.3395255</description>
+      <styleUrl>#icon-1453-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          88.339526,22.509112,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Pramatha Chowdhury Sarani PSS No2</name>
+      <description>22.5089529, 88.3381</description>
+      <styleUrl>#icon-1453-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          88.3381,22.508953,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Pramatha Chowdhury Sarani PSS No3
+(Commissioned on 06/05/24)</name>
+      <description>22.5091165, 88.3396435</description>
+      <styleUrl>#icon-1453-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          88.339644,22.509116,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Pramatha Chowdhury Sarani PSS No4
+(Bus Bar Commissioned on 06/05/24)
+(Transformer Commissioned On 23/0/4/25)</name>
+      <description>22.5091222, 88.3397431</description>
+      <styleUrl>#icon-1453-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          88.339743,22.509122,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Chowringhee Road PSS 2
+(SIEMENS)
+(Inside "The 42" Apartment)]]></name>
+      <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGSZ85UGd4eMdzIfqV--8CJXeiZ_a26ruZpqU8HXIfhjSfBZfp9TUss-Sy1ZRnHRSfobuHs67PKa9XfRKZqQ0waW0zflAEIelIpN4SCQ5S4DGOd4rY1xizp5ZEBVCwEtxZoyNymrVu8xeF7abLOEHZlIuzf2kU4VdS4hLYfZhO6Wv_j-4KInFqidZWRbm7HKQbzKRpYxgONAGpjFoxlcLyGfTZ4VgWPu0rXrdbAdXFjIGamTguGRTvFjxOc?authuser=1&fife=s16383" height="200" width="auto" /><br><br>22.54825, 88.35005]]></description>
+      <styleUrl>#icon-1453-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGSZ85UGd4eMdzIfqV--8CJXeiZ_a26ruZpqU8HXIfhjSfBZfp9TUss-Sy1ZRnHRSfobuHs67PKa9XfRKZqQ0waW0zflAEIelIpN4SCQ5S4DGOd4rY1xizp5ZEBVCwEtxZoyNymrVu8xeF7abLOEHZlIuzf2kU4VdS4hLYfZhO6Wv_j-4KInFqidZWRbm7HKQbzKRpYxgONAGpjFoxlcLyGfTZ4VgWPu0rXrdbAdXFjIGamTguGRTvFjxOc?authuser=1&fife=s16383]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          88.3500571,22.5482561,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Chowringhee Road PSS 3
+(SIEMENS)
+(Inside "The 42" Apartment)]]></name>
+      <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGSmUXaWAl91ac80v4pBbRvribJr4QZUlEmfFWsD9HiI0q_9wvYIYmHW7uhYq8PjVpTeopjjkCLFUKWqdVAWq7-1VVJwKHJpc_t2Dd-Shu5Aiyh6VQzuxfBmgSQThxTwhOR3Hg0h-uEfPULlrF6fS3RnG8EkwyjxJ-AH0HAkb5MamVkPQcN1KeSC3Kk1LT5_4GsBYVd4fzhI51zZl83fsBIVMCzG3mcTP0BxrekJB7WVaHGSzFfupjia5ds?authuser=1&fife=s16383" height="200" width="auto" /><br><br>22.54825, 88.35006]]></description>
+      <styleUrl>#icon-1453-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGSmUXaWAl91ac80v4pBbRvribJr4QZUlEmfFWsD9HiI0q_9wvYIYmHW7uhYq8PjVpTeopjjkCLFUKWqdVAWq7-1VVJwKHJpc_t2Dd-Shu5Aiyh6VQzuxfBmgSQThxTwhOR3Hg0h-uEfPULlrF6fS3RnG8EkwyjxJ-AH0HAkb5MamVkPQcN1KeSC3Kk1LT5_4GsBYVd4fzhI51zZl83fsBIVMCzG3mcTP0BxrekJB7WVaHGSzFfupjia5ds?authuser=1&fife=s16383]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          88.3500661,22.5482515,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Akra D/S PSS</name>
+      <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGR2qVZ7fsIS7hBm3m-GmnW1-qzIO9jZgRU3ekPaPkSuXK7yQxFGqoo8ZbYC0dmEnooViGkNfC-iGQNY47JBosvz5m2q8t6NZF6DtqzZ1qVRlGquPCxQu3HrdGt9Df16wbm1BqYsSMQETaZ-Z3NnMtvjDPWdei-rXndk0ykUvBNelJyMa7PSSznTIKZ_CPba7SZugpKFfJZqY2q6kA3V5Vw3F9RROcJF2wkVRq9UoLzQq1ARZDjArH4W2kk?authuser=1&fife=s16383" height="200" width="auto" /><br><br>22.53563, 88.25463<br><br><img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGTAiP1e21f4Ail1tUCyEUz8wWGyO3ft2Ole7kF6UcWuwsyrx1lvSuMvWMu-4EsDHvlelvup8Eifk8vkL84dU0JiSqr1HVvmDb9sZqRskjN5Y6m8yQSDi_yYs-xuvAsSzs41m10fNqCxdSJUNEVZl3rujDPpkUiH_NtzS5_LvcU2hgaiSk1pbBtSZUUJn5KcVFmh2GuN29BwFUDZlDKqy0JZq9O0MlsvimJ69AJ_8HDR4jAYyVXpynNJmIs?authuser=1&fife=s16383" height="200" width="auto" /><br><br><img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGSdK-MPwz1EBou1VqoyfNHYebLz6w06blgSm-g1DsqDu5_UdgyTCWTsOMepAaOh2ckiL7nzxflkB4cSJohpWlBotViORoZ43zYE0btmuGWfk15WUuxwfEWS7FYvgeKyvaRj9ISJb9vfr4V54IWqDaXmoh5oYl6lvj-UF-l8clPB4fqa1N2J1UDM-fYh3Nb1zzwtGRwwIqGzWMpT15a7Vl_JMD0UXhrLc__a5bB9yrOasUSRizybVlNTkWg?authuser=1&fife=s16383" height="200" width="auto" /><br><br><img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGR2g8x59RWxmSnP3YBTu4gvnwRu1op3iq9Sk5mWl7jiuRhviNu3DhWSMJcrvHMhz8VU6_OabUh498ue9iu3mumzdSu57VGMW9thec0XfhFa52MhPX6az1Qssfpd_cTIeBQO8xijESn7M5116HBPCuOSyx52Np1_Ix5yMNCxqmcOi62d2zZEobH3QcvcJ-1QDbiAzS_04xcrY6LbmBnV7cnMQytVHWAcYxz6ACA4BAfeziLj7zdzmYQsRVM?authuser=1&fife=s16383" height="200" width="auto" /><br><br><img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGTyTuZPpGnKRq2K6SXSxFmh4p6d-zLdhLsEWEMFQWM9Ujlaz5wgls1lhFXY7xF3ZqujA1Oax1k5dUvLDoLdSa9TX3UL2JyxZ9EIHDa3B6R-rKbG-tboErYX31RE3fUeu9t7rs20QZ4OhQAC473IRWmTSw7_xdTfafJSVKGq18FdkmfSLtab-lgYYG405zDoowmnsPwYRWh35tB-UsF6IlYsbpYmAvIslqNjchOHENMeRUAO5lbDvJGaVM0?authuser=1&fife=s16383" height="200" width="auto" /><br><br><img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGROX5iS8q8hDVyLCiTgonyqcUWoWPXBPTyMMg_6kjAxq--xiLvlb2SQdHnW7suRsnjwZ7hSnL3mKXD3SeBgG9PCsq0QdI5ULfn58LIL8RpYdBEeOcXCNK4dwA5v4zHgbHEXikaWMfKOlNjdx8hJUJpWD60n5bWoMq1xA_HC3jV628ptzOzPWOIS8ew1Xk6P1ChOyyGb-lPT_U46xz67AUQcZvKYlzkSDs1REeh9u0bWrZCZ3gs9Y-gg8hw?authuser=1&fife=s16383" height="200" width="auto" /><br><br><img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGRr3tum1k7HRf4eeauvXGkzY-_XKa4hdZH9-TWdH9ZLdhtqnjT1E4nnRwAqLm1cfrvRXj6MImNjakr_rg8mavQArjr5XeEz0JREQqoEHvBeQD-9ls3WlfYr0N8ZQsmnacARQrai3Wuj26OsGe0jSHfiBuyeSLagDD0J7u7_4De0Sc0K31uK2Ne9ft9n5oeTNF6fSgc0guj7vlsyZZgbbO00M75fwQLiEbVOCVHJMA5MaxB5ms_K2q8niOI?authuser=1&fife=s16383" height="200" width="auto" /><br><br><img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGSOex6oyYbiUAgdsXQQAp6OYVM5YLl4xIrp3NmL258YU_xE9l4nvb8OSbRXtCfwXzptE8o7IJLg1awGx26ycQ1zoJ18gOHcn0UXqMTUpChSafazp4U6LC0G-YHl0Cf6G463Xwc70GrXZzzxGpv-0qHoQqxRxtMy3s4bSRuJkEmtPIkQ638vxMSCwBnyjZKZRToeOEdNAXYlyFccThG127uCQZ8_JnZqDoEobMws_4fp4PAY0KKXT_5ZebA?authuser=1&fife=s16383" height="200" width="auto" /><br><br><img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGSpowz8KgLg8fIa8vKMQDHgHyYgK0TJOHazYp7mQDx7pjcs6cIwslHiXVwCXsvwmmWTAdzPlsGLwLg4aQRjPpqm-e7irTPaJmc_7LcaaAdKBTVT2mLAktsW2YaLcZmCl24Qvj1qBLTH1vxT4iMkGONUkYNkB2s2eTwrZ1t2x5odZnvUIHiEeXk_bDKsu7NG0jvsupNXxuij3OLM1lmSG2c3yBsvNGP1wdaLGcLjfZTVh3vMJQhvFtiPW_Q?authuser=1&fife=s16383" height="200" width="auto" />]]></description>
+      <styleUrl>#icon-1453-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGR2qVZ7fsIS7hBm3m-GmnW1-qzIO9jZgRU3ekPaPkSuXK7yQxFGqoo8ZbYC0dmEnooViGkNfC-iGQNY47JBosvz5m2q8t6NZF6DtqzZ1qVRlGquPCxQu3HrdGt9Df16wbm1BqYsSMQETaZ-Z3NnMtvjDPWdei-rXndk0ykUvBNelJyMa7PSSznTIKZ_CPba7SZugpKFfJZqY2q6kA3V5Vw3F9RROcJF2wkVRq9UoLzQq1ARZDjArH4W2kk?authuser=1&fife=s16383 https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGTAiP1e21f4Ail1tUCyEUz8wWGyO3ft2Ole7kF6UcWuwsyrx1lvSuMvWMu-4EsDHvlelvup8Eifk8vkL84dU0JiSqr1HVvmDb9sZqRskjN5Y6m8yQSDi_yYs-xuvAsSzs41m10fNqCxdSJUNEVZl3rujDPpkUiH_NtzS5_LvcU2hgaiSk1pbBtSZUUJn5KcVFmh2GuN29BwFUDZlDKqy0JZq9O0MlsvimJ69AJ_8HDR4jAYyVXpynNJmIs?authuser=1&fife=s16383 https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGSdK-MPwz1EBou1VqoyfNHYebLz6w06blgSm-g1DsqDu5_UdgyTCWTsOMepAaOh2ckiL7nzxflkB4cSJohpWlBotViORoZ43zYE0btmuGWfk15WUuxwfEWS7FYvgeKyvaRj9ISJb9vfr4V54IWqDaXmoh5oYl6lvj-UF-l8clPB4fqa1N2J1UDM-fYh3Nb1zzwtGRwwIqGzWMpT15a7Vl_JMD0UXhrLc__a5bB9yrOasUSRizybVlNTkWg?authuser=1&fife=s16383 https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGR2g8x59RWxmSnP3YBTu4gvnwRu1op3iq9Sk5mWl7jiuRhviNu3DhWSMJcrvHMhz8VU6_OabUh498ue9iu3mumzdSu57VGMW9thec0XfhFa52MhPX6az1Qssfpd_cTIeBQO8xijESn7M5116HBPCuOSyx52Np1_Ix5yMNCxqmcOi62d2zZEobH3QcvcJ-1QDbiAzS_04xcrY6LbmBnV7cnMQytVHWAcYxz6ACA4BAfeziLj7zdzmYQsRVM?authuser=1&fife=s16383 https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGTyTuZPpGnKRq2K6SXSxFmh4p6d-zLdhLsEWEMFQWM9Ujlaz5wgls1lhFXY7xF3ZqujA1Oax1k5dUvLDoLdSa9TX3UL2JyxZ9EIHDa3B6R-rKbG-tboErYX31RE3fUeu9t7rs20QZ4OhQAC473IRWmTSw7_xdTfafJSVKGq18FdkmfSLtab-lgYYG405zDoowmnsPwYRWh35tB-UsF6IlYsbpYmAvIslqNjchOHENMeRUAO5lbDvJGaVM0?authuser=1&fife=s16383 https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGROX5iS8q8hDVyLCiTgonyqcUWoWPXBPTyMMg_6kjAxq--xiLvlb2SQdHnW7suRsnjwZ7hSnL3mKXD3SeBgG9PCsq0QdI5ULfn58LIL8RpYdBEeOcXCNK4dwA5v4zHgbHEXikaWMfKOlNjdx8hJUJpWD60n5bWoMq1xA_HC3jV628ptzOzPWOIS8ew1Xk6P1ChOyyGb-lPT_U46xz67AUQcZvKYlzkSDs1REeh9u0bWrZCZ3gs9Y-gg8hw?authuser=1&fife=s16383 https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGRr3tum1k7HRf4eeauvXGkzY-_XKa4hdZH9-TWdH9ZLdhtqnjT1E4nnRwAqLm1cfrvRXj6MImNjakr_rg8mavQArjr5XeEz0JREQqoEHvBeQD-9ls3WlfYr0N8ZQsmnacARQrai3Wuj26OsGe0jSHfiBuyeSLagDD0J7u7_4De0Sc0K31uK2Ne9ft9n5oeTNF6fSgc0guj7vlsyZZgbbO00M75fwQLiEbVOCVHJMA5MaxB5ms_K2q8niOI?authuser=1&fife=s16383 https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGSOex6oyYbiUAgdsXQQAp6OYVM5YLl4xIrp3NmL258YU_xE9l4nvb8OSbRXtCfwXzptE8o7IJLg1awGx26ycQ1zoJ18gOHcn0UXqMTUpChSafazp4U6LC0G-YHl0Cf6G463Xwc70GrXZzzxGpv-0qHoQqxRxtMy3s4bSRuJkEmtPIkQ638vxMSCwBnyjZKZRToeOEdNAXYlyFccThG127uCQZ8_JnZqDoEobMws_4fp4PAY0KKXT_5ZebA?authuser=1&fife=s16383 https://mymaps.usercontent.google.com/hostedimage/m/*/3AKcrxGSpowz8KgLg8fIa8vKMQDHgHyYgK0TJOHazYp7mQDx7pjcs6cIwslHiXVwCXsvwmmWTAdzPlsGLwLg4aQRjPpqm-e7irTPaJmc_7LcaaAdKBTVT2mLAktsW2YaLcZmCl24Qvj1qBLTH1vxT4iMkGONUkYNkB2s2eTwrZ1t2x5odZnvUIHiEeXk_bDKsu7NG0jvsupNXxuij3OLM1lmSG2c3yBsvNGP1wdaLGcLjfZTVh3vMJQhvFtiPW_Q?authuser=1&fife=s16383]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          88.2546302,22.5356315,0
+        </coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>
