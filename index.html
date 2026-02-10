@@ -109,7 +109,7 @@ body, html { margin:0; height:100%; font-family:Arial; }
 <script src="https://unpkg.com/leaflet.markercluster@1.5.3/dist/leaflet.markercluster.js"></script>
 
 <script>
-var map = L.map('map', { maxZoom: 19 }).setView([22.5726, 88.3639], 12);
+var map = L.map('map', { maxZoom: 18 }).setView([22.5726, 88.3639], 12);
 
 L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png',{
     attribution: '© OpenStreetMap'
@@ -281,7 +281,7 @@ document.getElementById("searchBox").addEventListener("input", function(){
 
             arrowMarker = L.marker([item.lat,item.lon],{icon:arrowIcon}).addTo(map);
 
-            map.setView([item.lat,item.lon], 19);
+            map.setView([item.lat,item.lon], 18);
             item.marker.openPopup();
         };
 
