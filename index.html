@@ -1,0 +1,294 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Kolkata GIS Map</title>
+
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"/>
+<link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.css"/>
+<link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.Default.css"/>
+
+<style>
+body, html { margin:0; height:100%; font-family:Arial; }
+
+#container{ display:flex; height:100vh; }
+
+#map{ flex:1; }
+
+#sidepanel{
+    width:300px;
+    background:#f4f4f4;
+    border-left:1px solid #ccc;
+    padding:10px;
+    overflow-y:auto;
+    transition: width 0.3s;
+}
+
+#sidepanel.collapsed{
+    width:0;
+    padding:0;
+    overflow:hidden;
+}
+
+#toggleBtn{
+    position:absolute;
+    top:10px;
+    right:310px;
+    z-index:1000;
+    padding:6px 10px;
+    background:#333;
+    color:white;
+    border:none;
+    cursor:pointer;
+}
+
+#controls{
+    position:absolute;
+    top:10px;
+    left:10px;
+    background:white;
+    padding:8px;
+    border-radius:5px;
+    z-index:1000;
+}
+
+.leaflet-tooltip{
+    background:white;
+    border:1px solid #666;
+    font-size:11px;
+    padding:2px 5px;
+}
+
+.result-item{
+    padding:6px;
+    border-bottom:1px solid #ddd;
+    cursor:pointer;
+}
+.result-item:hover{ background:#e0e0e0; }
+
+/* Arrow */
+.arrow-icon {
+    width: 0;
+    height: 0;
+    border-left: 14px solid transparent;
+    border-right: 14px solid transparent;
+    border-top: 28px solid red;
+    animation: bounce 1s infinite;
+}
+@keyframes bounce {
+  0%   { transform: translateY(0); }
+  50%  { transform: translateY(-6px); }
+  100% { transform: translateY(0); }
+}
+</style>
+</head>
+
+<body>
+
+<div id="controls">
+<button onclick="loadAllKML()">Load Local KML Files</button>
+<input type="text" id="mapSearch" placeholder="Search Kolkata place..." style="margin-top:5px; width:100%;">
+<p id="status">Click Load Local KML Files</p>
+</div>
+
+<div id="container">
+
+<div id="map"></div>
+
+<div id="sidepanel">
+<h3>Search Markers</h3>
+<input type="text" id="searchBox" placeholder="Search marker name..." style="width:100%; padding:6px;">
+<div id="results"></div>
+</div>
+
+<button id="toggleBtn">Hide Panel</button>
+
+</div>
+
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+<script src="https://unpkg.com/leaflet.markercluster@1.5.3/dist/leaflet.markercluster.js"></script>
+
+<script>
+var map = L.map('map', { maxZoom: 25 }).setView([22.5726, 88.3639], 12);
+
+L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png',{
+    attribution: '© OpenStreetMap'
+}).addTo(map);
+
+var markers = L.markerClusterGroup();
+var markerData = [];
+var highlightedMarker = null;
+var arrowMarker = null;
+
+var colors = ["red","blue","green","purple","orange","darkcyan"];
+
+// ---------- COLLAPSE PANEL ----------
+document.getElementById("toggleBtn").addEventListener("click", function(){
+    var panel = document.getElementById("sidepanel");
+    if(panel.classList.contains("collapsed")){
+        panel.classList.remove("collapsed");
+        this.innerText = "Hide Panel";
+    } else {
+        panel.classList.add("collapsed");
+        this.innerText = "Show Panel";
+    }
+});
+
+// ---------- LOAD ALL KML FROM LOCAL FOLDER ----------
+async function loadAllKML(){
+
+    markers.clearLayers();
+    markerData = [];
+    document.getElementById("status").innerText = "Loading local KML files...";
+
+    // 👉 CHANGE THIS if your folder name is different
+    const kmlFiles = [
+        "kml/TH.kml",
+        "kml/RMU.kml",
+        "kml/PT.kml",
+        "kml/PSS.kml",
+        "kml/HTC.kml",
+        "kml/OT.kml"
+    ];
+
+    let allBounds = [];
+    let totalPoints = 0;
+
+    for(let i=0; i<kmlFiles.length; i++){
+
+        try{
+            const response = await fetch(kmlFiles[i]);
+            const text = await response.text();
+
+            var parser = new DOMParser();
+            var kml = parser.parseFromString(text,"application/xml");
+            var places = kml.getElementsByTagName("Placemark");
+
+            for(let j=0; j<places.length; j++){
+
+                var coords = places[j].getElementsByTagName("coordinates")[0];
+                if(!coords) continue;
+
+                var parts = coords.textContent.trim().split(",");
+                var lon = parseFloat(parts[0]);
+                var lat = parseFloat(parts[1]);
+
+                var nameTag = places[j].getElementsByTagName("name")[0];
+                var name = nameTag ? nameTag.textContent : "Point";
+
+                var color = colors[i % colors.length];
+
+                var m = L.circleMarker([lat, lon], {
+                    radius: 7,
+                    color: color,
+                    fillColor: color,
+                    fillOpacity: 0.8
+                });
+
+                m.bindTooltip(name,{permanent:true,direction:"top",offset:[0,-5]});
+                m.bindPopup("<b>"+name+"</b><br>"+kmlFiles[i]);
+
+                markers.addLayer(m);
+
+                markerData.push({
+                    name:name,
+                    lat:lat,
+                    lon:lon,
+                    marker:m,
+                    color:color
+                });
+
+                allBounds.push([lat,lon]);
+                totalPoints++;
+            }
+
+        }catch(err){
+            console.log("Error loading:", kmlFiles[i]);
+        }
+    }
+
+    map.addLayer(markers);
+
+    if(allBounds.length>0){
+        map.fitBounds(allBounds);
+    }
+
+    document.getElementById("status").innerText =
+        "Loaded "+totalPoints+" points from local KML folder.";
+}
+
+// ---------- LOCAL MAP SEARCH (PLACES IN KOLKATA) ----------
+document.getElementById("mapSearch").addEventListener("keypress", async function(e){
+    if(e.key !== "Enter") return;
+
+    var q = this.value + ", Kolkata, India";
+
+    var url = "https://nominatim.openstreetmap.org/search?format=json&q=" + encodeURIComponent(q);
+
+    const res = await fetch(url);
+    const data = await res.json();
+
+    if(data.length === 0){
+        alert("Place not found");
+        return;
+    }
+
+    var lat = parseFloat(data[0].lat);
+    var lon = parseFloat(data[0].lon);
+
+    map.setView([lat,lon], 18);
+});
+
+// ---------- MARKER NAME SEARCH + ARROW ----------
+document.getElementById("searchBox").addEventListener("input", function(){
+
+    var query = this.value.toLowerCase().trim();
+    var resultsDiv = document.getElementById("results");
+    resultsDiv.innerHTML = "";
+
+    if(query === "") return;
+
+    var matches = markerData.filter(i => i.name.toLowerCase().includes(query));
+
+    matches.forEach(function(item){
+
+        var div = document.createElement("div");
+        div.className = "result-item";
+        div.innerText = item.name;
+
+        div.onclick = function(){
+
+            if(highlightedMarker){
+                highlightedMarker.setStyle({
+                    radius:7,
+                    color:highlightedMarker.originalColor,
+                    fillColor:highlightedMarker.originalColor
+                });
+            }
+
+            item.marker.originalColor = item.color;
+            item.marker.setStyle({radius:12,color:"black",fillColor:"yellow"});
+            highlightedMarker = item.marker;
+
+            if(arrowMarker) map.removeLayer(arrowMarker);
+
+            var arrowIcon = L.divIcon({
+                className:"",
+                html:"<div class='arrow-icon'></div>",
+                iconSize:[30,30],
+                iconAnchor:[15,0]
+            });
+
+            arrowMarker = L.marker([item.lat,item.lon],{icon:arrowIcon}).addTo(map);
+
+            map.setView([item.lat,item.lon], 25);
+            item.marker.openPopup();
+        };
+
+        resultsDiv.appendChild(div);
+    });
+});
+</script>
+
+</body>
+</html>
